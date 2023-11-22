@@ -43,13 +43,14 @@
             {"field": "volcano_name", "type": "nominal", "title": "Volcano Name"},
             {"field": "country", "type": "nominal", "title": "Country"},
             {"field": "tectonic_settings","type": "nominal", "title": "Tectonic Setting"},
-            {"field": "elevation_times", "type": "quantitative", "title": "Elevation Times"},
+            {"field": "eruption_times", "type": "quantitative", "title": "Elevation Times"},
             {"field": "vei", "type": "quantitative", "title": "VEI"}
           ]
         }
       }
     ],
-    "width": 800,
-    "height": 400
+    
+    "width": 500,
+    "height": 300
   }
   
