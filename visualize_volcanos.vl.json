@@ -4,7 +4,23 @@
       "url": "https://raw.githubusercontent.com/leslieruan/Vega-Lite-Volcanos/main/volcanos_eruptions.csv",
       "format": {"type": "csv"}
     },
-    "params": [{"name": "interpolate", "value": "monotone"}
+    "params": [{"name": "interpolate", "value": "monotone"},
+    {
+        "name": "min_year",
+        "value": 1700,
+        "bind": {"input": "range", "min": 0, "max": 2020, "step": 10}
+      },
+      {
+        "name": "max_year",
+        "value": 2020,
+        "bind": {"input": "range", "min": 0, "max": 2020, "step": 10}
+      },
+      {
+        "name": "use_custom_year_range",
+        "value": true,
+        "bind": {"input": "checkbox"}
+      }
+    
 ],
     "title": {
       "text": "Exploring the Volcanos of the World",
@@ -48,12 +64,12 @@
                     "encoding": {
                       "longitude": {"field": "longitude", "type": "quantitative"},
                       "latitude": {"field": "latitude", "type": "quantitative"},
-                      "size": {"value": 25},
+                      "size": {"value": 30},
                       "color": {
                         "field": "eruption_frequency",
                         "title": "Eruptio Frequency",
                         "type": "nominal",
-                        "scale": {"range": [ "#d62828",  "#ffd60a","#ff7f0e"]}
+                        "scale": {"range": [ "#d62828", "#ff7f0e", "#ffd60a"]}
                         },
                         "opacity": {
                             "condition": {"param": "legend_click", "value": 0.7},
@@ -139,20 +155,26 @@
                 {
                     "width": 400,
                     "height": 200,
-                    "mark": {"type": "circle", "opacity": 0.8},
+                    "mark": {"type": "circle", "opacity": 0.8, "size": 25},
                     "encoding": {
                       "x": {
                         "title": "Eruption Start Time",
                         "field": "eruption_start_time",
                         "timeUnit": "year",
                         "type": "temporal",
+                        "scale": {
+                            "domainRaw": {"expr": "use_custom_year_range ? [min_year, max_year] : null"}
+                          },
                         "axis": {"tickCount": {"interval": "year", "step": 50}}
+                        
+                        
                       },
                       "y": {
                         "title": "Eruption Times",
                         "field": "eruption_times",
                         "type": "quantitative"
                       },
+                      
                       "color": {"field": "eruption_frequency"},
                       "opacity": {
                         "condition": {"param": "scatter_plot_brush"},
@@ -170,7 +192,9 @@
                       {
                         "name": "scatter_plot_brush",
                         "select": {"type": "interval", "encodings": ["x"]}
+                        
                       }
+                      
                     ],
                     "transform": [
                       {"filter": {"not": {"field": "eruption_start_time", "equal": "NA"}}},
