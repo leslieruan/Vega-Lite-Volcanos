@@ -4,7 +4,8 @@
       "url": "https://raw.githubusercontent.com/leslieruan/Vega-Lite-Volcanos/main/volcanos_eruptions.csv",
       "format": {"type": "csv"}
     },
-    "params": [{"name": "interpolate", "value": "monotone"}],
+    "params": [{"name": "interpolate", "value": "monotone"}
+],
     "title": {
       "text": "Exploring the Volcanos of the World",
       "anchor": "middle",
@@ -141,14 +142,14 @@
                     "mark": {"type": "circle", "opacity": 0.8},
                     "encoding": {
                       "x": {
-                        "title": "Eruption Start Year",
+                        "title": "Eruption Start Time",
                         "field": "eruption_start_time",
                         "timeUnit": "year",
                         "type": "temporal",
-                        "axis": {"tickCount": {"interval": "year", "step": 50}}               
+                        "axis": {"tickCount": {"interval": "year", "step": 50}}
                       },
                       "y": {
-                        "title": "Vei",
+                        "title": "Eruption Times",
                         "field": "eruption_times",
                         "type": "quantitative"
                       },
@@ -172,15 +173,13 @@
                       }
                     ],
                     "transform": [
-                      {"filter": {"not": {"field": "eruption_start_time_numeric", "equal": "NA"}}},
-                     
+                      {"filter": {"not": {"field": "eruption_start_time", "equal": "NA"}}},
                       {"filter": {"param": "legend_click"}},
                       {"filter": {"param": "histogram_brush"}},
                       {"filter": {"param": "bar_chart_click"}}       
                     ]
                   },
                   {
-                    
                     "mark": {
                       "type": "line",
                       "interpolate": {"expr": "interpolate"},
@@ -192,7 +191,8 @@
                         "joinaggregate": [
                           {"op": "mean", "field": "eruption_times", "as": "mean_times"}
                         ],
-                        "groupby": ["eruption_times"]
+                        "groupby": ["eruption_start_time"]
+                       
                       },
                     
                       {"filter": {"param": "scatter_plot_brush"}},
