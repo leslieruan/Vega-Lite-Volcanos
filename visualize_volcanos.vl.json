@@ -4,13 +4,14 @@
       "url": "https://raw.githubusercontent.com/leslieruan/Vega-Lite-Volcanos/main/volcanos_eruptions.csv",
       "format": {"type": "csv"}
     },
+    "params": [{"name": "interpolate", "value": "monotone"}],
     "title": {
       "text": "Exploring the Volcanos of the World",
       "anchor": "middle",
       "fontWeight": "bold",
       "fontSize": 24,
       "offset": 40,
-      "subtitle": "*DATA SOURCE: [Your Actual Data Source]",
+      "subtitle": "*DATA SOURCE: https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-05-12",
       "subtitleFontSize": 10,
       "subtitlePadding": 10,
       "subtitleColor": "dimgrey"
@@ -76,6 +77,12 @@
                           },
                           "bind": "legend"
                         }
+                      ],
+                      "transform": [
+                        {"filter": {"param": "scatter_plot_brush"}},
+                        {"filter": {"param": "legend_click"}},
+                        {"filter": {"param": "bar_chart_click"}},       
+                        {"filter": {"param": "histogram_brush"}}
                       ]
                   }
               
@@ -117,10 +124,10 @@
             "transform": [
                 {"filter": {"not": {"field": "eruption_frequency", "equal": "NA"}}},
                 {"filter": {"param": "legend_click"}},
-                {"filter": {"param": "histogram_brush"}}         
+                {"filter": {"param": "scatter_plot_brush"}},
+                {"filter": {"param": "bar_chart_click"}}       
             ]
-          }
-        
+          }  
         ]
       },
       {
@@ -129,23 +136,19 @@
             "layer": [
 
                 {
-                    "width": 500,
+                    "width": 400,
                     "height": 200,
                     "mark": {"type": "circle", "opacity": 0.8},
                     "encoding": {
                       "x": {
-                        "title": "Year",
+                        "title": "Eruption Start Year",
                         "field": "eruption_start_time",
                         "timeUnit": "year",
                         "type": "temporal",
-                        "axis": {"tickCount": {"interval": "year", "step": 50}},
-                        "scale": {"domain": [1400, 2020]}
-                
-                 
-                       
+                        "axis": {"tickCount": {"interval": "year", "step": 50}}               
                       },
                       "y": {
-                        "title": "Volcanic Explosivity Index",
+                        "title": "Vei",
                         "field": "eruption_times",
                         "type": "quantitative"
                       },
@@ -172,15 +175,105 @@
                       {"filter": {"not": {"field": "eruption_start_time_numeric", "equal": "NA"}}},
                      
                       {"filter": {"param": "legend_click"}},
-                      {"filter": {"param": "histogram_brush"}}
+                      {"filter": {"param": "histogram_brush"}},
+                      {"filter": {"param": "bar_chart_click"}}       
                     ]
+                  },
+                  {
+                    
+                    "mark": {
+                      "type": "line",
+                      "interpolate": {"expr": "interpolate"},
+                      "color": "firebrick"
+                    },
+                    "transform": [
+                      {"filter": {"not": {"field": "eruption_times", "equal": "NA"}}},
+                      {
+                        "joinaggregate": [
+                          {"op": "mean", "field": "eruption_times", "as": "mean_times"}
+                        ],
+                        "groupby": ["eruption_times"]
+                      },
+                    
+                      {"filter": {"param": "scatter_plot_brush"}},
+                      {"filter": {"param": "legend_click"}},
+                      {"filter": {"param": "bar_chart_click"}},       
+                      {"filter": {"param": "histogram_brush"}}
+                    ],
+                    "encoding": {
+                      "x": {
+                        "title": "Year",
+                        "field": "eruption_start_time",
+                        "timeUnit": "year",
+                        "type": "temporal",
+                        "axis": {"tickCount": {"interval": "year", "step": 50}}       
+                      },
+                      "y": {
+                        "title": "Average Eruption Times",
+                        "field": "mean_times",
+                        "type": "quantitative"
+                      }
+                    }
                   }
 
-
-
-
             ]
-            }
+            },
+            {
+                "repeat": {"column": ["eruption_times"]},
+                "spec": {
+                  "height": 200,
+                  "width": 300,
+                  "layer": [
+                    {
+                      "params": [
+                        {
+                          "name": "bar_chart_click",
+                          "select": {"type": "interval", "encodings": ["x"]}
+                        }
+                      ],
+                      "mark": "bar",
+                      "encoding": {
+                        "y": {
+                          "title": "Number of Volcanoes",
+                          "aggregate": "count",
+                          "field": "volcano_name",
+                          "type": "quantitative"
+                        },
+                        "x": {
+                          "title": "Eruption Times",
+                          "field": {"repeat": "column"},
+                          "bin": {"step": 5}
+                        },
+                        "color": {"field": "eruption_frequency", "type": "nominal", "scale": {"range": [ "#d62828", "#ff7f0e", "#ffd60a"]}},
+                        "opacity": {
+                          "condition": {"param": "bar_chart_click"},
+                          "value": 0.1
+                        }
+                      },
+                      "transform": [
+                        {"filter": {"param": "scatter_plot_brush"}},
+                        {"filter": {"param": "legend_click"}},
+                        {"filter": {"param": "bar_chart_click"}},       
+                        {"filter": {"param": "histogram_brush"}}
+                      ]
+                    },
+                    {
+                      "mark": "bar",
+                      "encoding": {
+                        "x": {"field": {"repeat": "column"}, "bin": {"step": 5}},
+                        "y": {"aggregate": "count"},
+                        "color": {"field": "eruption_frequency", "type": "nominal", "scale": {"range": [ "#d62828", "#ff7f0e", "#ffd60a"]}}
+                      },
+                      "transform": [
+                        {"filter": {"param": "bar_chart_click"}},
+                        {"filter": {"param": "scatter_plot_brush"}},
+                        {"filter": {"param": "legend_click"}},
+                        {"filter": {"param": "histogram_brush"}}
+                      ]
+                    }
+                  ]
+                }
+              }
         ]
       }     
     ]
