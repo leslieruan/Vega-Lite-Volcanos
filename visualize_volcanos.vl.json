@@ -139,12 +139,14 @@
                         "timeUnit": "year",
                         "type": "temporal",
                         "axis": {"tickCount": {"interval": "year", "step": 50}},
-                        "scale": {"domain": [-5000, 2020]}
+                        "scale": {"domain": [1400, 2020]}
+                
+                 
                        
                       },
                       "y": {
                         "title": "Volcanic Explosivity Index",
-                        "field": "vei",
+                        "field": "eruption_times",
                         "type": "quantitative"
                       },
                       "color": {"field": "eruption_frequency", "type": "nominal", "scale": {"range": [ "#d62828", "#ff7f0e", "#ffd60a"]}},

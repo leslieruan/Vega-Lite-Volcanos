@@ -1,11 +1,7 @@
 volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eruption_times,eruption_start_time,eruption_frequency,primary_volcano_type
 342080,Acatenango,Subduction zone / Continental crust (>25 km),Guatemala,14.501,-90.876,1.0,8,1972-11-12,Medium (3-10),Stratovolcanoes
-321040,Adams,Subduction zone / Continental crust (>25 km),United States,46.206,-121.49,2.0,15,0950-00-00,High (>10),Stratovolcanoes
 283170,Adatarayama,Subduction zone / Continental crust (>25 km),Japan,37.647,140.281,1.0,13,1996-09-01,High (>10),Stratovolcanoes
-221170,Adwa,Rift zone / Intermediate crust (15-25 km),Ethiopia,10.07,40.84,2.0,2,1928-00-00,Low (0-2),Stratovolcanoes
 284160,Agrigan,Subduction zone / Crustal thickness unknown,United States,18.77,145.67,4.0,1,1917-04-09,Low (0-2),Stratovolcanoes
-342100,Agua,Subduction zone / Continental crust (>25 km),Guatemala,14.465,-90.743,2.0,1,1541-09-11,Low (0-2),Stratovolcanoes
-382090,Agua de Pau,Rift zone / Oceanic crust (< 15 km),Portugal,37.77,-25.47,2.0,10,1564-02-10,Medium (3-10),Stratovolcanoes
 264020,Agung,Subduction zone / Continental crust (>25 km),Indonesia,-8.343,115.508,3.0,5,2017-11-21,Medium (3-10),Stratovolcanoes
 284141,Ahyi,Subduction zone / Crustal thickness unknown,United States,20.42,145.03,0.0,3,2014-04-24,Medium (3-10),Others
 282080,Aira,Subduction zone / Continental crust (>25 km),Japan,31.593,130.657,1.0,54,2017-03-25,High (>10),Calderas
@@ -16,12 +12,8 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 283260,Akita-Yakeyama,Subduction zone / Continental crust (>25 km),Japan,39.964,140.757,1.0,17,1997-08-16,High (>10),Stratovolcanoes
 311320,Akutan,Subduction zone / Intermediate crust (15-25 km),United States,54.134,-165.986,1.0,47,1992-12-18,High (>10),Stratovolcanoes
 290390,Alaid,Subduction zone / Continental crust (>25 km),Russia,50.861,155.565,1.0,16,2018-08-20,High (>10),Stratovolcanoes
-221112,Alayta,Rift zone / Intermediate crust (15-25 km),Ethiopia,12.888,40.573,2.0,2,1915-00-00,Low (0-2),Shield
 353040,Alcedo,Rift zone / Oceanic crust (< 15 km),Ecuador,-0.43,-91.12,1.0,3,1993-12-05,Medium (3-10),Shield
-342040,Almolonga,Subduction zone / Continental crust (>25 km),Guatemala,14.797,-91.519,2.0,6,1891-00-00,Medium (3-10),Stratovolcanoes
-300450,Alney-Chashakondzha,Subduction zone / Continental crust (>25 km),Russia,56.656,159.647,2.0,3,1600-00-00,Medium (3-10),Stratovolcanoes
 221060,Alu-Dalafilla,Rift zone / Intermediate crust (15-25 km),Ethiopia,13.793,40.553,3.0,1,2008-11-03,Low (0-2),Fissure Vents
-311390,Amak,Subduction zone / Continental crust (>25 km),United States,55.424,-163.149,2.0,3,1796-00-00,Medium (3-10),Stratovolcanoes
 257030,Ambae,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-15.389,167.835,3.0,8,2017-09-06,Medium (3-10),Shield
 273088,Ambalatungan Group,Subduction zone / Continental crust (>25 km),Philippines,17.32,121.1,1.0,1,1952-07-02,Low (0-2),Complex
 266020,Ambang,Subduction zone / Continental crust (>25 km),Indonesia,0.75,124.42,1.0,2,2005-12-22,Low (0-2),Complex
@@ -30,7 +22,6 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 284200,Anatahan,Subduction zone / Crustal thickness unknown,United States,16.35,145.67,2.0,4,2007-11-27,Medium (3-10),Stratovolcanoes
 354004,Andahua-Orcopampa,Subduction zone / Continental crust (>25 km),Peru,-15.42,-72.33,2.0,4,1913-03-06,Medium (3-10),Craters and Cones
 312090,Aniakchak,Subduction zone / Continental crust (>25 km),United States,56.88,-158.17,2.0,18,1951-06-25,High (>10),Calderas
-352030,Antisana,Subduction zone / Continental crust (>25 km),Ecuador,-0.481,-78.141,2.0,3,1801-00-00,Medium (3-10),Stratovolcanoes
 357080,Antuco,Subduction zone / Continental crust (>25 km),Chile,-37.406,-71.349,2.0,16,1972-07-02,High (>10),Stratovolcanoes
 284060,Aogashima,Subduction zone / Oceanic crust (< 15 km),Japan,32.458,139.759,3.0,7,1780-07-27,Medium (3-10),Stratovolcanoes
 343010,Apaneca Range,Subduction zone / Continental crust (>25 km),El Salvador,13.891,-89.786,2.0,1,1990-10-13,Low (0-2),Stratovolcanoes
@@ -38,127 +29,83 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 213040,Ararat,Intraplate / Continental crust (>25 km),Turkey,39.7,44.3,3.0,5,1840-07-02,Medium (3-10),Stratovolcanoes
 221126,Ardoukoba,Rift zone / Intermediate crust (15-25 km),Djibouti,11.58,42.47,1.0,1,1978-11-07,Low (0-2),Fissure Vents
 345033,Arenal,Subduction zone / Continental crust (>25 km),Costa Rica,10.463,-84.703,3.0,28,1968-07-29,High (>10),Stratovolcanoes
-231090,"Arhab, Harra of",Intraplate / Continental crust (>25 km),Yemen,15.63,44.08,0.0,2,0500-00-00,Low (0-2),Volcanic Fields
 263290,Arjuno-Welirang,Subduction zone / Continental crust (>25 km),Indonesia,-7.733,112.575,2.0,3,1991-09-13,Medium (3-10),Stratovolcanoes
 283110,Asamayama,Subduction zone / Continental crust (>25 km),Japan,36.406,138.523,2.0,147,2019-08-07,High (>10),Complex
-385050,Ascension,Rift zone / Oceanic crust (< 15 km),United Kingdom,-7.95,-14.37,0.0,3,1508-00-00,Medium (3-10),Stratovolcanoes
 373060,Askja,Rift zone / Oceanic crust (< 15 km),Iceland,65.033,-16.783,2.0,14,1961-10-26,High (>10),Stratovolcanoes
 282110,Asosan,Subduction zone / Continental crust (>25 km),Japan,32.884,131.104,2.0,186,2019-04-16,High (>10),Calderas
-284150,Asuncion,Subduction zone / Crustal thickness unknown,United States,19.671,145.406,2.0,7,1924-00-00,Medium (3-10),Stratovolcanoes
-282070,Ata,Subduction zone / Continental crust (>25 km),Japan,31.22,130.57,2.0,27,1615-08-07,High (>10),Calderas
 311160,Atka,Subduction zone / Intermediate crust (15-25 km),United States,52.331,-174.139,2.0,3,1996-06-29,Medium (3-10),Stratovolcanoes
 320030,Atlin Volcanic Field,Intraplate / Continental crust (>25 km),Canada,59.68,-133.32,2.0,1,1898-11-08,Low (0-2),Craters and Cones
-241020,Auckland Volcanic Field,Subduction zone / Continental crust (>25 km),New Zealand,-36.9,174.87,2.0,1,1350-00-00,Low (0-2),Volcanic Fields
 313010,Augustine,Subduction zone / Continental crust (>25 km),United States,59.363,-153.43,3.0,23,2005-12-09,High (>10),Lava Domes
 300100,Avachinsky,Subduction zone / Continental crust (>25 km),Russia,53.256,158.836,1.0,58,2001-10-05,High (>10),Stratovolcanoes
 331021,Axial Seamount,Rift zone / Oceanic crust (< 15 km),Undersea Features,45.95,-130.0,0.0,12,2015-04-23,High (>10),Others
 353060,"Azul, Cerro",Rift zone / Oceanic crust (< 15 km),Ecuador,-0.92,-91.408,1.0,15,2008-05-29,High (>10),Shield
 357060,"Azul, Cerro",Subduction zone / Continental crust (>25 km),Chile,-35.653,-70.761,2.0,11,1967-08-09,High (>10),Stratovolcanoes
 283180,Azumayama,Subduction zone / Continental crust (>25 km),Japan,37.735,140.244,1.0,24,1977-12-07,High (>10),Stratovolcanoes
-274030,Babuyan Claro,Subduction zone / Crustal thickness unknown,Philippines,19.523,121.94,2.0,9,1924-00-00,Medium (3-10),Stratovolcanoes
 255020,Bagana,Subduction zone / Crustal thickness unknown,Papua New Guinea,-6.137,155.196,2.0,26,2000-02-28,High (>10),Others
-321010,Baker,Subduction zone / Continental crust (>25 km),United States,48.777,-121.813,2.0,20,1884-00-00,High (>10),Stratovolcanoes
-250020,Baluan,Subduction zone / Continental crust (>25 km),Papua New Guinea,-2.57,147.28,0.0,1,1931-00-00,Low (0-2),Stratovolcanoes
-273050,Banahaw,Subduction zone / Continental crust (>25 km),Philippines,14.07,121.48,2.0,4,1909-00-00,Medium (3-10),Complex
 265090,Banda Api,Subduction zone / Oceanic crust (< 15 km),Indonesia,-4.523,129.881,3.0,27,1988-05-09,High (>10),Calderas
 283160,Bandaisan,Subduction zone / Continental crust (>25 km),Japan,37.601,140.072,4.0,14,1888-07-15,High (>10),Stratovolcanoes
 341020,Barcena,Rift zone / Oceanic crust (< 15 km),Mexico,19.3,-110.82,3.0,1,1952-08-01,Low (0-2),Craters and Cones
 373030,Bardarbunga,Rift zone / Oceanic crust (< 15 km),Iceland,64.633,-17.516,0.0,55,2014-08-29,High (>10),Stratovolcanoes
 222030,"Barrier, The",Rift zone / Continental crust (>25 km),Kenya,2.32,36.57,2.0,12,1921-12-31,High (>10),Shield
-345050,Barva,Subduction zone / Continental crust (>25 km),Costa Rica,10.135,-84.1,2.0,2,1867-03-00,Low (0-2),Complex
 264010,Batur,Subduction zone / Continental crust (>25 km),Indonesia,-8.242,115.375,1.0,28,1999-03-15,High (>10),Calderas
-225060,Bayuda Volcanic Field,Intraplate / Continental crust (>25 km),Sudan,18.33,32.75,2.0,1,0850-00-00,Low (0-2),Craters and Cones
-322060,Belknap,Subduction zone / Continental crust (>25 km),United States,44.285,-121.841,2.0,4,0480-00-00,Medium (3-10),Shield
-290040,Berutarubesan [Berutarube],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,44.462,146.932,1.0,1,1812-00-00,Low (0-2),Stratovolcanoes
 300250,Bezymianny,Subduction zone / Continental crust (>25 km),Russia,55.972,160.595,3.0,65,2010-05-21,High (>10),Stratovolcanoes
 272080,Biliran,Subduction zone / Continental crust (>25 km),Philippines,11.523,124.535,1.0,1,1939-09-26,Low (0-2),Complex
-255011,Billy Mitchell,Subduction zone / Crustal thickness unknown,Papua New Guinea,-6.092,155.225,6.0,2,1580-00-00,Low (0-2),Others
-327050,Black Rock Desert,Rift zone / Continental crust (>25 km),United States,38.97,-112.5,2.0,1,1290-00-00,Low (0-2),Volcanic Fields
 311300,Bogoslof,Subduction zone / Intermediate crust (15-25 km),United States,53.93,-168.03,3.0,12,2016-12-20,High (>10),Others
 386020,Bouvet,Rift zone / Oceanic crust (< 15 km),Norway,-54.408,3.351,2.0,2,1956-07-15,Low (0-2),Shield
-351012,"Bravo, Cerro",Subduction zone / Continental crust (>25 km),Colombia,5.091,-75.293,4.0,8,1720-00-00,Medium (3-10),Stratovolcanoes
-371040,Brennisteinsfjoll,Rift zone / Oceanic crust (< 15 km),Iceland,63.933,-21.783,2.0,9,1341-00-00,Medium (3-10),Craters and Cones
 390080,Bristol Island,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-59.017,-26.533,1.0,6,2016-04-24,Medium (3-10),Stratovolcanoes
 390010,Buckle Island,Rift zone / Oceanic crust (< 15 km),Antarctica,-66.78,163.25,2.0,2,1899-01-12,Low (0-2),Stratovolcanoes
 273010,Bulusan,Subduction zone / Continental crust (>25 km),Philippines,12.769,124.056,1.0,24,2017-06-05,High (>10),Stratovolcanoes
-272050,Cabalían,Subduction zone / Continental crust (>25 km),Philippines,10.285,125.218,2.0,1,1820-00-00,Low (0-2),Stratovolcanoes
-273090,Cagua,Subduction zone / Continental crust (>25 km),Philippines,18.222,122.123,2.0,1,1860-10-00,Low (0-2),Stratovolcanoes
 358020,Calbuco,Subduction zone / Continental crust (>25 km),Chile,-41.33,-72.618,4.0,37,2015-04-22,High (>10),Stratovolcanoes
 357091,Callaqui,Subduction zone / Continental crust (>25 km),Chile,-37.92,-71.45,2.0,7,2012-01-02,Medium (3-10),Stratovolcanoes
 224010,Cameroon,Intraplate / Continental crust (>25 km),Cameroon,4.203,9.17,2.0,19,2000-05-28,High (>10),Stratovolcanoes
 271080,Camiguin,Subduction zone / Continental crust (>25 km),Philippines,9.203,124.673,3.0,6,1948-09-01,Medium (3-10),Stratovolcanoes
-274010,Camiguin de Babuyanes,Subduction zone / Crustal thickness unknown,Philippines,18.83,121.86,2.0,1,1857-00-00,Low (0-2),Stratovolcanoes
-211010,Campi Flegrei,Subduction zone / Continental crust (>25 km),Italy,40.827,14.139,3.0,20,1538-09-29,High (>10),Calderas
 211070,Campi Flegrei del Mar di Sicilia,Rift zone / Continental crust (>25 km),Italy,37.1,12.7,1.0,8,1911-09-30,Medium (3-10),Others
 390100,Candlemas Island,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-57.08,-26.67,0.0,4,1953-12-31,Medium (3-10),Stratovolcanoes
 357140,Carran-Los Venados,Subduction zone / Continental crust (>25 km),Chile,-40.35,-72.07,2.0,3,1979-04-14,Medium (3-10),Craters and Cones
-352006,Cayambe,Subduction zone / Continental crust (>25 km),Ecuador,0.029,-77.986,2.0,22,1785-02-00,High (>10),Complex
 341030,Ceboruco,Subduction zone / Continental crust (>25 km),Mexico,21.125,-104.508,3.0,4,1870-02-21,Medium (3-10),Stratovolcanoes
 222010,Central Island,Rift zone / Continental crust (>25 km),Kenya,3.496,36.04,1.0,1,1974-07-22,Low (0-2),Craters and Cones
 263170,Cereme,Subduction zone / Continental crust (>25 km),Indonesia,-6.895,108.408,2.0,7,2015-06-24,Medium (3-10),Stratovolcanoes
-352022,Chacana,Subduction zone / Continental crust (>25 km),Ecuador,-0.375,-78.25,0.0,5,1773-00-00,Medium (3-10),Calderas
 290030,Chachadake [Tiatia],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,44.353,146.252,1.0,6,1982-02-10,Medium (3-10),Stratovolcanoes
 305060,Changbaishan,Intraplate / Continental crust (>25 km),China-North Korea,41.98,128.08,2.0,10,1903-04-15,Medium (3-10),Stratovolcanoes
-341080,Chichinautzin,Subduction zone / Continental crust (>25 km),Mexico,19.08,-99.13,3.0,8,0400-00-00,Medium (3-10),Volcanic Fields
 341120,"Chichon, El",Subduction zone / Continental crust (>25 km),Mexico,17.36,-93.228,5.0,13,1982-03-28,High (>10),Lava Domes
 312110,Chiginagak,Subduction zone / Continental crust (>25 km),United States,57.135,-156.99,1.0,4,1998-08-13,Medium (3-10),Stratovolcanoes
 290360,Chikurachki,Subduction zone / Continental crust (>25 km),Russia,50.324,155.461,2.0,26,2016-07-27,High (>10),Stratovolcanoes
 351110,Chiles-Cerro Negro,Subduction zone / Continental crust (>25 km),Colombia-Ecuador,0.817,-77.938,2.0,1,1936-07-17,Low (0-2),Stratovolcanoes
 357070,"Chillan, Nevados de",Subduction zone / Continental crust (>25 km),Chile,-36.868,-71.378,2.0,32,2016-01-08,High (>10),Stratovolcanoes
-290090,Chirippusan [Chirip],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,45.338,147.92,1.0,2,1860-00-00,Low (0-2),Stratovolcanoes
 290150,Chirpoi,Subduction zone / Oceanic crust (< 15 km),Russia,46.532,150.871,0.0,9,2012-11-11,Medium (3-10),Calderas
 283220,Chokaisan,Subduction zone / Continental crust (>25 km),Japan,39.099,140.049,1.0,32,1974-03-01,High (>10),Stratovolcanoes
-222130,Chyulu Hills,Rift zone / Continental crust (>25 km),Kenya,-2.68,37.88,2.0,2,1855-00-00,Low (0-2),Volcanic Fields
 331030,Cleft Segment,Rift zone / Oceanic crust (< 15 km),Undersea Features,44.83,-130.3,0.0,3,1986-08-16,Medium (3-10),Others
 331020,CoAxial Segment,Rift zone / Oceanic crust (< 15 km),Undersea Features,46.52,-129.58,0.0,2,1993-06-26,Low (0-2),Others
-341096,Cofre de Perote,Subduction zone / Continental crust (>25 km),Mexico,19.492,-97.15,2.0,1,1150-00-00,Low (0-2),Shield
 341040,Colima,Subduction zone / Continental crust (>25 km),Mexico,19.514,-103.62,2.0,86,2019-05-11,High (>10),Stratovolcanoes
 344120,Concepcion,Subduction zone / Continental crust (>25 km),Nicaragua,11.538,-85.622,1.0,34,2009-12-11,High (>10),Stratovolcanoes
 357090,Copahue,Subduction zone / Continental crust (>25 km),Chile-Argentina,-37.856,-71.183,2.0,18,2019-08-02,High (>10),Stratovolcanoes
 221290,Corbetti Caldera,Rift zone / Continental crust (>25 km),Ethiopia,7.193,38.39,2.0,1,1957-07-02,Low (0-2),Calderas
 344010,Cosiguina,Subduction zone / Continental crust (>25 km),Nicaragua,12.98,-87.57,2.0,7,1859-08-25,Medium (3-10),Stratovolcanoes
 352050,Cotopaxi,Subduction zone / Continental crust (>25 km),Ecuador,-0.677,-78.436,2.0,85,2015-08-14,High (>10),Stratovolcanoes
-352003,Cuicocha,Subduction zone / Continental crust (>25 km),Ecuador,0.308,-78.364,2.0,4,0650-00-00,Medium (3-10),Calderas
 351100,Cumbal,Subduction zone / Continental crust (>25 km),Colombia,0.95,-77.87,2.0,2,1926-12-20,Low (0-2),Stratovolcanoes
 221113,Dabbahu,Rift zone / Intermediate crust (15-25 km),Ethiopia,12.595,40.48,3.0,4,2005-09-26,Medium (3-10),Stratovolcanoes
-252040,Dakataua,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.094,150.094,2.0,3,1895-00-00,Medium (3-10),Calderas
-221141,Dama Ali,Rift zone / Intermediate crust (15-25 km),Ethiopia,11.28,41.63,2.0,1,1631-02-14,Low (0-2),Shield
 353030,Darwin,Rift zone / Oceanic crust (< 15 km),Ecuador,-0.18,-91.28,2.0,3,1813-06-06,Medium (3-10),Shield
-253060,Dawson Strait Group,Subduction zone / Continental crust (>25 km),Papua New Guinea,-9.62,150.88,2.0,1,1350-00-00,Low (0-2),Volcanic Fields
 390030,Deception Island,Intraplate / Continental crust (>25 km),Antarctica,-63.001,-60.652,2.0,30,1987-07-23,High (>10),Calderas
 261230,Dempo,Subduction zone / Continental crust (>25 km),Indonesia,-4.016,103.121,1.0,28,2017-11-09,High (>10),Stratovolcanoes
 357050,Descabezado Grande,Subduction zone / Continental crust (>25 km),Chile,-35.58,-70.75,3.0,1,1932-06-05,Low (0-2),Stratovolcanoes
-231120,"Dhamar, Harras of",Intraplate / Continental crust (>25 km),Yemen,14.57,44.67,2.0,1,1937-00-00,Low (0-2),Volcanic Fields
 263200,Dieng Volcanic Complex,Subduction zone / Continental crust (>25 km),Indonesia,-7.2,109.879,1.0,31,2018-04-01,High (>10),Complex
-300022,Diky Greben,Subduction zone / Continental crust (>25 km),Russia,51.452,156.978,2.0,4,0350-00-00,Medium (3-10),Lava Domes
-221100,Dubbi,Rift zone / Intermediate crust (15-25 km),Eritrea,13.579,41.809,2.0,4,1900-00-00,Medium (3-10),Stratovolcanoes
 268010,Dukono,Subduction zone / Oceanic crust (< 15 km),Indonesia,1.693,127.894,3.0,5,1933-08-13,Medium (3-10),Complex
 300110,Dzenzursky,Subduction zone / Continental crust (>25 km),Russia,53.637,158.922,2.0,2,1957-01-28,Low (0-2),Complex
 290380,Ebeko,Subduction zone / Continental crust (>25 km),Russia,50.686,156.014,2.0,20,2016-10-20,High (>10),Stratovolcanoes
-353011,Ecuador,Rift zone / Oceanic crust (< 15 km),Ecuador,-0.02,-91.546,0.0,1,1150-00-00,Low (0-2),Shield
-320060,Edziza,Intraplate / Continental crust (>25 km),Canada,57.72,-130.63,3.0,4,0950-00-00,Medium (3-10),Stratovolcanoes
-214010,Elbrus,Intraplate / Continental crust (>25 km),Russia,43.351,42.442,2.0,1,0050-00-00,Low (0-2),Stratovolcanoes
-222051,Emuruangogolak,Rift zone / Continental crust (>25 km),Kenya,1.5,36.33,0.0,8,1910-00-00,Medium (3-10),Shield
 257060,Epi,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-16.68,168.37,2.0,14,2004-02-16,High (>10),Stratovolcanoes
-213010,Erciyes Dagi,Intraplate / Continental crust (>25 km),Turkey,38.531,35.447,2.0,2,0253-00-00,Low (0-2),Stratovolcanoes
 390020,Erebus,Intraplate / Continental crust (>25 km),Antarctica,-77.53,167.17,2.0,22,1972-12-16,High (>10),Stratovolcanoes
 221080,Erta Ale,Rift zone / Intermediate crust (15-25 km),Ethiopia,13.6,40.67,0.0,7,1967-07-02,Medium (3-10),Shield
 285011,Esan,Subduction zone / Continental crust (>25 km),Japan,41.805,141.166,1.0,8,1874-06-08,Medium (3-10),Lava Domes
 374020,Esjufjoll,Rift zone / Oceanic crust (< 15 km),Iceland,64.25,-16.583,1.0,1,1927-09-05,Low (0-2),Stratovolcanoes
 211060,Etna,Subduction zone / Continental crust (>25 km),Italy,37.748,14.999,2.0,241,2013-09-03,High (>10),Stratovolcanoes
-290050,Etorofu-Atosanupuri [Atosanupuri],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,44.808,147.131,2.0,2,1932-00-00,Low (0-2),Stratovolcanoes
 290070,Etorofu-Yakeyama [Grozny Group],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,45.012,147.871,2.0,7,2013-02-16,Medium (3-10),Complex
 372020,Eyjafjallajokull,Rift zone / Oceanic crust (< 15 km),Iceland,63.633,-19.633,4.0,5,2010-03-20,Medium (3-10),Stratovolcanoes
 284140,Farallon de Pajaros,Subduction zone / Crustal thickness unknown,United States,20.546,144.893,0.0,18,1967-03-27,High (>10),Stratovolcanoes
 382010,Fayal,Rift zone / Oceanic crust (< 15 km),Portugal,38.6,-28.73,2.0,2,1957-09-27,Low (0-2),Stratovolcanoes
-221190,Fentale,Rift zone / Continental crust (>25 km),Ethiopia,8.975,39.93,0.0,2,1820-00-00,Low (0-2),Stratovolcanoes
-311350,Fisher,Subduction zone / Continental crust (>25 km),United States,54.65,-164.43,2.0,6,1830-08-00,Medium (3-10),Stratovolcanoes
 384010,Fogo,Intraplate / Intermediate crust (15-25 km),Cape Verde,14.95,-24.35,3.0,12,2014-11-23,High (>10),Stratovolcanoes
 233020,"Fournaise, Piton de la",Intraplate / Oceanic crust (< 15 km),France,-21.244,55.708,2.0,194,2020-02-10,High (>10),Shield
-373070,Fremrinamar,Rift zone / Oceanic crust (< 15 km),Iceland,65.416,-16.666,2.0,5,1823-00-00,Medium (3-10),Stratovolcanoes
 342090,Fuego,Subduction zone / Continental crust (>25 km),Guatemala,14.473,-90.88,3.0,79,2002-01-04,High (>10),Stratovolcanoes
 283030,Fujisan,Subduction zone / Continental crust (>25 km),Japan,35.361,138.728,2.0,67,1854-12-23,High (>10),Stratovolcanoes
-382100,Furnas,Rift zone / Oceanic crust (< 15 km),Portugal,37.77,-25.32,5.0,9,1630-09-03,Medium (3-10),Stratovolcanoes
 334070,Galapagos Rift,Rift zone / Oceanic crust (< 15 km),Undersea Features,0.792,-86.15,0.0,2,1996-07-02,Low (0-2),Others
 351080,Galeras,Subduction zone / Continental crust (>25 km),Colombia,1.22,-77.37,2.0,42,2012-05-13,High (>10),Complex
 263140,Galunggung,Subduction zone / Continental crust (>25 km),Indonesia,-7.25,108.058,1.0,7,1984-01-09,Medium (3-10),Stratovolcanoes
@@ -166,61 +113,35 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 268040,Gamkonora,Subduction zone / Oceanic crust (< 15 km),Indonesia,1.38,127.53,1.0,14,2013-01-23,High (>10),Stratovolcanoes
 257020,Gaua,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-14.27,167.5,1.0,16,2011-09-17,High (>10),Stratovolcanoes
 263060,Gede-Pangrango,Subduction zone / Continental crust (>25 km),Indonesia,-6.77,106.965,2.0,26,1957-03-13,High (>10),Stratovolcanoes
-321020,Glacier Peak,Subduction zone / Continental crust (>25 km),United States,48.112,-121.113,2.0,8,1700-00-00,Medium (3-10),Stratovolcanoes
 300070,Gorely,Subduction zone / Continental crust (>25 km),Russia,52.559,158.03,1.0,53,2010-06-06,High (>10),Calderas
-383040,Gran Canaria,Intraplate / Intermediate crust (15-25 km),Spain,28.0,-15.58,2.0,11,0040-00-00,High (>10),Fissure Vents
 373010,Grimsvotn,Rift zone / Oceanic crust (< 15 km),Iceland,64.416,-17.316,4.0,86,2011-05-21,High (>10),Calderas
 352020,Guagua Pichincha,Subduction zone / Continental crust (>25 km),Ecuador,-0.171,-78.598,1.0,44,2009-02-16,High (>10),Stratovolcanoes
-263130,Guntur,Subduction zone / Continental crust (>25 km),Indonesia,-7.143,107.84,2.0,27,1887-00-00,High (>10),Complex
-284050,Hachijojima,Subduction zone / Oceanic crust (< 15 km),Japan,33.137,139.766,2.0,19,1707-00-00,High (>10),Stratovolcanoes
 275001,Hainan Volcanic Field,Intraplate / Continental crust (>25 km),China,19.905,110.229,2.0,2,1933-06-26,Low (0-2),Craters and Cones
-283280,Hakkodasan,Subduction zone / Continental crust (>25 km),Japan,40.659,140.877,1.0,7,1550-00-00,Medium (3-10),Stratovolcanoes
 283020,Hakoneyama,Subduction zone / Continental crust (>25 km),Japan,35.233,139.021,1.0,8,2015-06-29,Medium (3-10),Complex
-283050,Hakusan,Subduction zone / Continental crust (>25 km),Japan,36.155,136.771,2.0,26,1659-04-21,High (>10),Stratovolcanoes
-332060,Haleakala,Intraplate / Oceanic crust (< 15 km),United States,20.708,-156.25,2.0,40,1750-00-00,High (>10),Shield
-306040,Halla,Intraplate / Continental crust (>25 km),South Korea,33.361,126.53,2.0,4,1007-00-00,Medium (3-10),Shield
-252100,Hargy,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.33,151.1,2.0,2,0950-00-00,Low (0-2),Stratovolcanoes
-231001,Harrat Ash Shamah,Intraplate / Continental crust (>25 km),Syria-Jordan-Saudi Arabia,32.333,37.583,0.0,2,1850-00-00,Low (0-2),Volcanic Fields
-283122,Harunasan,Subduction zone / Continental crust (>25 km),Japan,36.477,138.851,5.0,3,0550-06-01,Medium (3-10),Stratovolcanoes
-241140,Healy,Subduction zone / Oceanic crust (< 15 km),New Zealand,-35.004,178.973,2.0,1,1360-00-00,Low (0-2),Others
 234010,Heard,Intraplate / Oceanic crust (< 15 km),Australia,-53.106,73.513,0.0,13,2012-09-05,High (>10),Stratovolcanoes
 372070,Hekla,Rift zone / Oceanic crust (< 15 km),Iceland,63.983,-19.666,3.0,65,2000-02-26,High (>10),Stratovolcanoes
-371050,Hengill,Rift zone / Oceanic crust (< 15 km),Iceland,64.083,-21.416,2.0,13,0150-00-00,High (>10),Craters and Cones
 383020,Hierro,Intraplate / Oceanic crust (< 15 km),Spain,27.73,-18.03,2.0,7,2011-10-10,Medium (3-10),Shield
-283131,Hiuchigatake,Subduction zone / Continental crust (>25 km),Japan,36.955,139.285,2.0,2,1544-07-28,Low (0-2),Stratovolcanoes
-390110,Hodson,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-56.712,-27.176,2.0,2,1930-00-00,Low (0-2),Stratovolcanoes
 285020,Hokkaido-Komagatake,Subduction zone / Continental crust (>25 km),Japan,42.063,140.677,1.0,24,2000-09-04,High (>10),Stratovolcanoes
 322010,Hood,Subduction zone / Continental crust (>25 km),United States,45.374,-121.695,2.0,9,1907-08-28,Medium (3-10),Stratovolcanoes
-332040,Hualalai,Intraplate / Oceanic crust (< 15 km),United States,19.692,-155.87,0.0,22,1800-00-00,High (>10),Shield
-357123,Huanquihue Group,Subduction zone / Continental crust (>25 km),Argentina,-39.887,-71.58,2.0,1,1750-00-00,Low (0-2),Stratovolcanoes
-354030,Huaynaputina,Subduction zone / Continental crust (>25 km),Peru,-16.608,-70.85,6.0,2,1600-02-17,Low (0-2),Stratovolcanoes
 390028,Hudson Mountains,Intraplate / Continental crust (>25 km),Antarctica,-74.33,-99.42,2.0,2,1985-07-02,Low (0-2),Stratovolcanoes
 358057,"Hudson, Cerro",Subduction zone / Continental crust (>25 km),Chile,-45.9,-72.97,2.0,15,2011-10-26,High (>10),Stratovolcanoes
-358030,Huequi,Subduction zone / Continental crust (>25 km),Chile,-42.377,-72.578,2.0,7,1920-00-00,Medium (3-10),Lava Domes
 268030,Ibu,Subduction zone / Oceanic crust (< 15 km),Indonesia,1.488,127.63,1.0,5,2008-04-05,Medium (3-10),Stratovolcanoes
 263350,Ijen,Subduction zone / Continental crust (>25 km),Indonesia,-8.058,114.242,1.0,11,2002-07-29,High (>10),Stratovolcanoes
 313020,Iliamna,Subduction zone / Continental crust (>25 km),United States,60.032,-153.09,2.0,17,1987-03-19,High (>10),Stratovolcanoes
 264220,Iliboleng,Subduction zone / Crustal thickness unknown,Indonesia,-8.342,123.258,1.0,20,1993-06-16,High (>10),Stratovolcanoes
 264250,Iliwerung,Subduction zone / Crustal thickness unknown,Indonesia,-8.53,123.57,0.0,15,2013-08-20,High (>10),Complex
 343060,Ilopango,Subduction zone / Continental crust (>25 km),El Salvador,13.672,-89.053,3.0,2,1879-12-31,Low (0-2),Calderas
-314060,Imuruk Lake,Intraplate / Continental crust (>25 km),United States,65.517,-163.45,2.0,1,0300-00-00,Low (0-2),Shield
 264090,Inielika,Subduction zone / Crustal thickness unknown,Indonesia,-8.73,120.98,2.0,2,2001-01-11,Low (0-2),Complex
 284120,Ioto,Subduction zone / Crustal thickness unknown,Japan,24.751,141.289,1.0,23,2012-02-10,High (>10),Calderas
 282020,Io-Torishima,Subduction zone / Oceanic crust (< 15 km),Japan,27.881,128.223,1.0,9,1968-07-18,Medium (3-10),Complex
 345060,Irazu,Subduction zone / Continental crust (>25 km),Costa Rica,9.979,-83.852,2.0,39,1994-12-08,High (>10),Stratovolcanoes
-211030,Ischia,Subduction zone / Continental crust (>25 km),Italy,40.73,13.897,2.0,24,1302-01-18,High (>10),Complex
-320090,Iskut-Unuk River Cones,Intraplate / Continental crust (>25 km),Canada,56.58,-130.55,2.0,8,1904-00-00,Medium (3-10),Craters and Cones
 283270,Iwakisan,Subduction zone / Continental crust (>25 km),Japan,40.656,140.303,1.0,29,1863-03-23,High (>10),Stratovolcanoes
-283240,Iwatesan,Subduction zone / Continental crust (>25 km),Japan,39.853,141.001,2.0,31,1934-07-00,High (>10),Complex
 264110,Iya,Subduction zone / Crustal thickness unknown,Indonesia,-8.891,121.641,1.0,11,1971-06-16,High (>10),Stratovolcanoes
-263330,Iyang-Argapura,Subduction zone / Continental crust (>25 km),Indonesia,-7.97,113.57,2.0,1,1597-00-00,Low (0-2),Complex
 284010,Izu-Oshima,Subduction zone / Oceanic crust (< 15 km),Japan,34.724,139.394,2.0,108,1990-10-04,High (>10),Stratovolcanoes
 283010,Izu-Tobu,Subduction zone / Continental crust (>25 km),Japan,34.9,139.098,1.0,7,1989-07-13,Medium (3-10),Craters and Cones
 284090,Izu-Torishima,Subduction zone / Oceanic crust (< 15 km),Japan,30.484,140.303,2.0,7,2013-07-06,Medium (3-10),Stratovolcanoes
 376010,Jan Mayen,Rift zone / Oceanic crust (< 15 km),Norway,71.082,-8.155,0.0,8,1985-01-06,Medium (3-10),Stratovolcanoes
-322020,Jefferson,Subduction zone / Continental crust (>25 km),United States,44.674,-121.8,2.0,2,0950-00-00,Low (0-2),Stratovolcanoes
 261220,Kaba,Subduction zone / Continental crust (>25 km),Indonesia,-3.522,102.615,1.0,13,2000-08-22,High (>10),Stratovolcanoes
-241010,Kaikohe-Bay of Islands,Subduction zone / Continental crust (>25 km),New Zealand,-35.3,173.9,2.0,1,0400-00-00,Low (0-2),Volcanic Fields
 284100,Kaitoku Seamount,Subduction zone / Crustal thickness unknown,Japan,26.127,141.102,0.0,4,1986-06-18,Medium (3-10),Others
 311110,Kanaga,Subduction zone / Intermediate crust (15-25 km),United States,51.923,-177.168,2.0,24,2012-02-18,High (>10),Stratovolcanoes
 272020,Kanlaon,Subduction zone / Continental crust (>25 km),Philippines,10.412,123.132,2.0,31,2017-12-09,High (>10),Stratovolcanoes
@@ -234,116 +155,74 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 261170,Kerinci,Subduction zone / Continental crust (>25 km),Indonesia,-1.697,101.264,1.0,37,2018-04-21,High (>10),Stratovolcanoes
 290200,Ketoi,Subduction zone / Oceanic crust (< 15 km),Russia,47.35,152.475,1.0,5,2018-09-21,Medium (3-10),Stratovolcanoes
 290300,Kharimkotan,Subduction zone / Intermediate crust (15-25 km),Russia,49.12,154.508,5.0,6,1933-01-08,Medium (3-10),Stratovolcanoes
-231060,"Khaybar, Harrat",Intraplate / Continental crust (>25 km),Saudi Arabia,25.0,39.92,2.0,1,0650-00-00,Low (0-2),Volcanic Fields
 360160,Kick 'em Jenny,Subduction zone / Oceanic crust (< 15 km),Grenada,12.3,-61.64,0.0,15,2017-03-29,High (>10),Others
 282060,Kikai,Subduction zone / Oceanic crust (< 15 km),Japan,30.793,130.305,2.0,25,2019-11-02,High (>10),Calderas
-300180,Kikhpinych,Subduction zone / Continental crust (>25 km),Russia,54.489,160.251,2.0,8,1550-00-00,Medium (3-10),Stratovolcanoes
 332010,Kilauea,Intraplate / Oceanic crust (< 15 km),United States,19.421,-155.287,3.0,96,1983-01-03,High (>10),Shield
 282090,Kirishimayama,Subduction zone / Continental crust (>25 km),Japan,31.934,130.862,3.0,85,2018-03-01,High (>10),Shield
 284110,Kita-Ioto,Subduction zone / Crustal thickness unknown,Japan,25.424,141.284,0.0,19,2003-11-04,High (>10),Stratovolcanoes
 300260,Klyuchevskoy,Subduction zone / Continental crust (>25 km),Russia,56.056,160.642,2.0,111,2019-10-24,High (>10),Stratovolcanoes
 290120,Kolokol Group,Subduction zone / Intermediate crust (15-25 km),Russia,46.042,150.083,2.0,11,2009-08-26,High (>10),Stratovolcanoes
-221200,Kone,Rift zone / Continental crust (>25 km),Ethiopia,8.788,39.701,1.0,1,1820-00-00,Low (0-2),Calderas
 311161,Korovin,Subduction zone / Continental crust (>25 km),United States,52.381,-174.166,1.0,14,2006-11-25,High (>10),Stratovolcanoes
-300020,Koshelev,Subduction zone / Continental crust (>25 km),Russia,51.356,156.753,2.0,5,1741-00-00,Medium (3-10),Stratovolcanoes
-300122,Kostakan,Subduction zone / Continental crust (>25 km),Russia,53.83,158.05,1.0,6,1350-00-00,Medium (3-10),Craters and Cones
-284030,Kozushima,Subduction zone / Oceanic crust (< 15 km),Japan,34.219,139.153,4.0,5,0838-08-02,Medium (3-10),Lava Domes
 373080,Krafla,Rift zone / Oceanic crust (< 15 km),Iceland,65.715,-16.728,0.0,24,1984-09-04,High (>10),Calderas
 262000,Krakatau,Subduction zone / Continental crust (>25 km),Indonesia,-6.102,105.423,3.0,56,2018-06-18,High (>10),Calderas
-300190,Krasheninnikov,Subduction zone / Continental crust (>25 km),Russia,54.596,160.27,2.0,31,1550-00-00,High (>10),Calderas
 252070,Krummel-Garbuna-Welcker,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.416,150.027,2.0,4,2008-07-13,Medium (3-10),Stratovolcanoes
-371030,Krysuvik,Rift zone / Oceanic crust (< 15 km),Iceland,63.883,-22.083,1.0,11,1340-00-00,High (>10),Craters and Cones
 300050,Ksudach,Subduction zone / Continental crust (>25 km),Russia,51.844,157.572,5.0,15,1907-03-28,High (>10),Stratovolcanoes
 282050,Kuchinoerabujima,Subduction zone / Oceanic crust (< 15 km),Japan,30.443,130.217,2.0,30,2020-01-11,High (>10),Stratovolcanoes
-282043,Kuchinoshima,Subduction zone / Oceanic crust (< 15 km),Japan,29.968,129.926,2.0,4,1190-00-00,Medium (3-10),Stratovolcanoes
 282120,Kujusan,Subduction zone / Continental crust (>25 km),Japan,33.086,131.249,1.0,14,1995-10-11,High (>10),Stratovolcanoes
 304030,Kunlun Volcanic Group,Intraplate / Continental crust (>25 km),China,35.52,80.2,2.0,2,1951-05-27,Low (0-2),Craters and Cones
 283210,Kurikomayama,Subduction zone / Continental crust (>25 km),Japan,38.961,140.788,2.0,8,1950-01-15,Medium (3-10),Stratovolcanoes
 283120,Kusatsu-Shiranesan,Subduction zone / Continental crust (>25 km),Japan,36.618,138.528,1.0,31,2018-01-23,High (>10),Stratovolcanoes
-285080,Kussharo,Subduction zone / Continental crust (>25 km),Japan,43.615,144.427,2.0,6,1320-00-00,Medium (3-10),Calderas
-285034,Kuttara,Subduction zone / Continental crust (>25 km),Japan,42.491,141.16,1.0,3,1820-00-00,Medium (3-10),Stratovolcanoes
 257070,Kuwae,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-16.829,168.536,0.0,18,1980-08-20,High (>10),Calderas
 373050,Kverkfjoll,Rift zone / Oceanic crust (< 15 km),Iceland,64.653,-16.647,0.0,8,1968-05-23,Medium (3-10),Stratovolcanoes
-222170,Kyejo,Rift zone / Continental crust (>25 km),Tanzania,-9.229,33.792,2.0,1,1800-00-00,Low (0-2),Stratovolcanoes
 383010,La Palma,Intraplate / Oceanic crust (< 15 km),Spain,28.57,-17.83,2.0,13,1971-10-26,High (>10),Stratovolcanoes
 263320,Lamongan,Subduction zone / Continental crust (>25 km),Indonesia,-7.981,113.341,2.0,42,1953-04-04,High (>10),Stratovolcanoes
 252010,Langila,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.525,148.42,2.0,27,2016-04-02,High (>10),Complex
-371080,Langjokull,Rift zone / Oceanic crust (< 15 km),Iceland,64.85,-19.7,2.0,6,0950-00-00,Medium (3-10),Others
-357122,Lanin,Subduction zone / Continental crust (>25 km),Chile-Argentina,-39.637,-71.502,2.0,8,0560-00-00,Medium (3-10),Stratovolcanoes
 383060,Lanzarote,Intraplate / Intermediate crust (15-25 km),Spain,29.03,-13.63,2.0,4,1824-07-31,Medium (3-10),Fissure Vents
 355100,Lascar,Subduction zone / Continental crust (>25 km),Chile,-23.37,-67.73,2.0,36,2015-10-30,High (>10),Stratovolcanoes
 323080,Lassen Volcanic Center,Subduction zone / Continental crust (>25 km),United States,40.492,-121.508,3.0,7,1914-05-30,Medium (3-10),Stratovolcanoes
 263260,Lawu,Subduction zone / Continental crust (>25 km),Indonesia,-7.625,111.192,1.0,2,1885-11-28,Low (0-2),Stratovolcanoes
 222120,"Lengai, Ol Doinyo",Rift zone / Continental crust (>25 km),Tanzania,-2.764,35.914,0.0,29,2017-04-09,High (>10),Stratovolcanoes
-271031,Leonard Range,Subduction zone / Continental crust (>25 km),Philippines,7.382,126.047,2.0,3,0120-00-00,Medium (3-10),Stratovolcanoes
 264200,Leroboleng,Subduction zone / Crustal thickness unknown,Indonesia,-8.365,122.833,3.0,4,2003-06-26,Medium (3-10),Complex
 264180,Lewotobi,Subduction zone / Crustal thickness unknown,Indonesia,-8.542,122.775,2.0,24,2014-10-06,High (>10),Stratovolcanoes
 360030,Liamuiga,Subduction zone / Oceanic crust (< 15 km),Saint Kitts and Nevis,17.37,-62.8,2.0,5,1843-02-08,Medium (3-10),Stratovolcanoes
-211042,Lipari,Subduction zone / Continental crust (>25 km),Italy,38.49,14.933,2.0,3,1230-00-00,Medium (3-10),Stratovolcanoes
-370030,Ljosufjoll,Rift zone / Oceanic crust (< 15 km),Iceland,64.9,-22.483,2.0,5,0960-00-00,Medium (3-10),Fissure Vents
 357110,Llaima,Subduction zone / Continental crust (>25 km),Chile,-38.692,-71.729,3.0,58,2008-01-01,High (>10),Stratovolcanoes
 266100,Lokon-Empung,Subduction zone / Continental crust (>25 km),Indonesia,1.358,124.792,1.0,31,2015-08-30,High (>10),Stratovolcanoes
-252130,Lolobau,Subduction zone / Continental crust (>25 km),Papua New Guinea,-4.92,151.158,4.0,4,1911-00-00,Medium (3-10),Calderas
 251050,Long Island,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.358,147.12,1.0,12,1993-11-03,High (>10),Complex
-305050,Longgang Group,Intraplate / Continental crust (>25 km),China,42.33,126.5,2.0,1,0350-00-00,Low (0-2),Craters and Cones
 357100,Lonquimay,Subduction zone / Continental crust (>25 km),Chile,-38.379,-71.586,3.0,5,1988-12-25,Medium (3-10),Stratovolcanoes
-231040,"Lunayyir, Harrat",Intraplate / Continental crust (>25 km),Saudi Arabia,25.17,37.75,2.0,1,1000-00-00,Low (0-2),Volcanic Fields
 242021,Macauley,Subduction zone / Oceanic crust (< 15 km),New Zealand,-30.21,-178.475,0.0,3,1887-12-01,Medium (3-10),Calderas
-272070,Mahagnao,Subduction zone / Continental crust (>25 km),Philippines,10.882,124.888,2.0,1,1895-00-00,Low (0-2),Stratovolcanoes
 266110,Mahawu,Subduction zone / Continental crust (>25 km),Indonesia,1.352,124.865,0.0,7,1977-11-16,Medium (3-10),Stratovolcanoes
-357021,Maipo,Subduction zone / Continental crust (>25 km),Chile-Argentina,-34.164,-69.832,2.0,13,1912-00-00,High (>10),Calderas
 311310,Makushin,Subduction zone / Intermediate crust (15-25 km),United States,53.891,-166.923,1.0,28,1995-01-30,High (>10),Stratovolcanoes
 300140,Maly Semyachik,Subduction zone / Continental crust (>25 km),Russia,54.135,159.674,2.0,23,1952-12-05,High (>10),Calderas
-323150,Mammoth Mountain,Rift zone / Continental crust (>25 km),United States,37.631,-119.032,2.0,2,1260-00-00,Low (0-2),Lava Domes
 251020,Manam,Subduction zone / Continental crust (>25 km),Papua New Guinea,-4.08,145.037,2.0,45,2014-06-29,High (>10),Stratovolcanoes
 221115,Manda Hararo,Rift zone / Intermediate crust (15-25 km),Ethiopia,12.17,40.82,2.0,2,2009-06-28,Low (0-2),Shield
 221122,Manda-Inakir,Rift zone / Intermediate crust (15-25 km),Ethiopia-Djibouti,12.38,42.2,2.0,1,1928-12-31,Low (0-2),Fissure Vents
 261140,Marapi,Subduction zone / Continental crust (>25 km),Indonesia,-0.38,100.474,2.0,68,2018-04-27,High (>10),Complex
 234070,Marion Island,Rift zone / Oceanic crust (< 15 km),South Africa,-46.9,37.75,1.0,2,2004-06-24,Low (0-2),Shield
-327040,Markagunt Plateau,Rift zone / Continental crust (>25 km),United States,37.58,-112.67,2.0,1,1050-00-00,Low (0-2),Volcanic Fields
-241061,Maroa,Subduction zone / Continental crust (>25 km),New Zealand,-38.42,176.08,2.0,2,0180-00-00,Low (0-2),Calderas
 312140,Martin,Subduction zone / Continental crust (>25 km),United States,58.172,-155.361,2.0,4,1953-02-17,Medium (3-10),Stratovolcanoes
 285061,Maruyama,Subduction zone / Continental crust (>25 km),Japan,43.418,143.031,2.0,2,1898-12-03,Low (0-2),Stratovolcanoes
 344100,Masaya,Subduction zone / Continental crust (>25 km),Nicaragua,11.985,-86.165,1.0,42,2015-10-03,High (>10),Calderas
-285081,Mashu,Subduction zone / Continental crust (>25 km),Japan,43.572,144.561,5.0,7,1080-00-00,Medium (3-10),Calderas
 258010,Matthew Island,Subduction zone / Crustal thickness unknown,France,-22.33,171.32,1.0,7,1976-11-27,Medium (3-10),Stratovolcanoes
 271020,Matutum,Subduction zone / Continental crust (>25 km),Philippines,6.37,125.07,2.0,4,1911-03-07,Medium (3-10),Stratovolcanoes
 332020,Mauna Loa,Intraplate / Oceanic crust (< 15 km),United States,19.475,-155.608,0.0,110,1984-03-25,High (>10),Shield
-323020,Medicine Lake,Subduction zone / Continental crust (>25 km),United States,41.611,-121.554,1.0,10,1910-01-00,Medium (3-10),Shield
-390015,Melbourne,Intraplate / Continental crust (>25 km),Antarctica,-74.35,164.7,2.0,1,1892-00-00,Low (0-2),Stratovolcanoes
 263250,Merapi,Subduction zone / Continental crust (>25 km),Indonesia,-7.54,110.446,3.0,110,2018-05-11,High (>10),Stratovolcanoes
-263240,Merbabu,Subduction zone / Continental crust (>25 km),Indonesia,-7.454,110.44,2.0,4,1797-00-00,Medium (3-10),Stratovolcanoes
 222160,Meru,Rift zone / Continental crust (>25 km),Tanzania,-3.25,36.75,2.0,4,1910-10-26,Medium (3-10),Stratovolcanoes
-212020,Methana,Subduction zone / Continental crust (>25 km),Greece,37.615,23.336,2.0,2,1922-08-00,Low (0-2),Lava Domes
-358040,Michinmahuida,Subduction zone / Continental crust (>25 km),Chile,-42.799,-72.445,2.0,10,1915-00-00,Medium (3-10),Stratovolcanoes
 341060,Michoacan-Guanajuato,Subduction zone / Continental crust (>25 km),Mexico,19.85,-101.75,4.0,11,1943-02-20,High (>10),Craters and Cones
 283080,Midagahara,Subduction zone / Continental crust (>25 km),Japan,36.571,137.59,2.0,7,1858-04-08,Medium (3-10),Stratovolcanoes
-290161,Milna,Subduction zone / Oceanic crust (< 15 km),Russia,46.815,151.786,2.0,6,1944-00-00,Medium (3-10),Stratovolcanoes
-212030,Milos,Subduction zone / Continental crust (>25 km),Greece,36.699,24.439,1.0,1,0140-00-00,Low (0-2),Stratovolcanoes
 284131,Minami-Hiyoshi,Subduction zone / Crustal thickness unknown,Japan,23.5,141.935,0.0,6,1996-01-11,Medium (3-10),Others
 345030,Miravalles,Subduction zone / Continental crust (>25 km),Costa Rica,10.748,-85.153,1.0,2,1946-09-14,Low (0-2),Stratovolcanoes
 284040,Miyakejima,Subduction zone / Oceanic crust (< 15 km),Japan,34.094,139.526,1.0,40,2010-04-11,High (>10),Stratovolcanoes
 357130,Mocho-Choshuenco,Subduction zone / Continental crust (>25 km),Chile,-39.927,-72.027,2.0,2,1937-06-16,Low (0-2),Stratovolcanoes
-344110,Mombacho,Subduction zone / Continental crust (>25 km),Nicaragua,11.826,-85.968,2.0,2,1850-00-00,Low (0-2),Stratovolcanoes
 344090,Momotombo,Subduction zone / Continental crust (>25 km),Nicaragua,12.423,-86.539,2.0,22,2015-12-01,High (>10),Stratovolcanoes
 323110,Mono Lake Volcanic Field,Rift zone / Continental crust (>25 km),United States,38.0,-119.03,2.0,5,1890-08-23,Medium (3-10),Craters and Cones
-323120,Mono-Inyo Craters,Rift zone / Continental crust (>25 km),United States,37.804,-119.029,4.0,13,1380-00-00,High (>10),Lava Domes
 390081,Montagu Island,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-58.445,-26.374,1.0,2,2001-10-01,Low (0-2),Shield
 290100,Moyorodake [Medvezhia],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,45.389,148.838,1.0,6,1999-10-07,Medium (3-10),Stratovolcanoes
 300060,Mutnovsky,Subduction zone / Continental crust (>25 km),Russia,52.449,158.196,1.0,45,2000-06-30,High (>10),Complex
 284070,Myojinsho,Subduction zone / Oceanic crust (< 15 km),Japan,31.888,139.918,0.0,23,1988-03-18,High (>10),Others
-245030,Nabukelevu,Subduction zone / Crustal thickness unknown,Fiji,-19.12,177.98,2.0,3,1660-00-00,Medium (3-10),Lava Domes
-282040,Nakanoshima,Subduction zone / Oceanic crust (< 15 km),Japan,29.859,129.857,1.0,2,1949-10-00,Low (0-2),Stratovolcanoes
-283200,Naruko,Subduction zone / Continental crust (>25 km),Japan,38.729,140.734,1.0,5,0837-05-27,Medium (3-10),Calderas
 283150,Nasudake,Subduction zone / Continental crust (>25 km),Japan,37.125,139.963,1.0,21,1963-11-20,High (>10),Stratovolcanoes
 353050,"Negra, Sierra",Rift zone / Oceanic crust (< 15 km),Ecuador,-0.83,-91.17,2.0,18,2018-06-26,High (>10),Shield
 344070,"Negro, Cerro",Subduction zone / Continental crust (>25 km),Nicaragua,12.506,-86.702,2.0,24,1999-08-05,High (>10),Craters and Cones
-344092,Nejapa-Miraflores,Subduction zone / Continental crust (>25 km),Nicaragua,12.12,-86.32,3.0,8,1060-00-00,Medium (3-10),Fissure Vents
 213020,Nemrut Dagi,Intraplate / Continental crust (>25 km),Turkey,38.654,42.229,2.0,27,1692-04-13,High (>10),Stratovolcanoes
-322110,Newberry,Subduction zone / Continental crust (>25 km),United States,43.722,-121.229,4.0,11,0690-00-00,High (>10),Shield
-222164,Ngozi,Rift zone / Continental crust (>25 km),Tanzania,-8.989,33.554,2.0,2,1450-00-00,Low (0-2),Calderas
 283090,Niigata-Yakeyama,Subduction zone / Continental crust (>25 km),Japan,36.921,138.036,1.0,20,1998-03-30,High (>10),Lava Domes
-284020,Niijima,Subduction zone / Oceanic crust (< 15 km),Japan,34.397,139.27,4.0,5,0886-06-29,Medium (3-10),Lava Domes
 283140,Nikko-Shiranesan,Subduction zone / Continental crust (>25 km),Japan,36.799,139.376,2.0,12,1952-07-16,High (>10),Shield
 212050,Nisyros,Subduction zone / Continental crust (>25 km),Greece,36.586,27.16,2.0,4,1888-09-25,Medium (3-10),Stratovolcanoes
 243110,Niuafo'ou,Subduction zone / Oceanic crust (< 15 km),Tonga,-15.6,-175.63,0.0,14,1985-03-21,High (>10),Shield
@@ -356,56 +235,35 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 241050,Okataina,Subduction zone / Continental crust (>25 km),New Zealand,-38.12,176.5,1.0,31,1981-05-16,High (>10),Lava Domes
 311290,Okmok,Subduction zone / Intermediate crust (15-25 km),United States,53.43,-168.13,4.0,19,2008-07-12,High (>10),Shield
 224030,Oku Volcanic Field,Intraplate / Continental crust (>25 km),Cameroon,6.25,10.5,2.0,2,1986-08-21,Low (0-2),Stratovolcanoes
-355050,Olca-Paruma,Subduction zone / Continental crust (>25 km),Chile-Bolivia,-20.939,-68.413,2.0,1,1865-00-00,Low (0-2),Stratovolcanoes
-222090,Olkaria,Rift zone / Continental crust (>25 km),Kenya,-0.904,36.292,2.0,3,1770-00-00,Medium (3-10),Craters and Cones
 283040,Ontakesan,Subduction zone / Continental crust (>25 km),Japan,35.893,137.48,3.0,5,2014-09-27,Medium (3-10),Complex
-300080,Opala,Subduction zone / Continental crust (>25 km),Russia,52.543,157.339,2.0,7,1894-00-00,Medium (3-10),Calderas
 374010,Oraefajokull,Rift zone / Oceanic crust (< 15 km),Iceland,64.05,-16.633,4.0,2,1727-08-03,Low (0-2),Stratovolcanoes
-341100,"Orizaba, Pico de",Subduction zone / Continental crust (>25 km),Mexico,19.03,-97.27,2.0,27,1846-00-00,High (>10),Stratovolcanoes
-285010,Oshima-Oshima,Subduction zone / Continental crust (>25 km),Japan,41.51,139.367,2.0,6,1790-01-00,Medium (3-10),Stratovolcanoes
-283290,Osorezan,Subduction zone / Continental crust (>25 km),Japan,41.279,141.12,2.0,1,1787-00-00,Low (0-2),Stratovolcanoes
-358010,Osorno,Subduction zone / Continental crust (>25 km),Chile,-41.105,-72.496,2.0,18,1869-00-00,High (>10),Stratovolcanoes
 342110,Pacaya,Subduction zone / Continental crust (>25 km),Guatemala,14.382,-90.601,1.0,36,2015-06-07,High (>10),Complex
 284170,Pagan,Subduction zone / Crustal thickness unknown,United States,18.13,145.8,2.0,24,2012-10-30,High (>10),Stratovolcanoes
 264150,Paluweh,Subduction zone / Crustal thickness unknown,Indonesia,-8.32,121.708,2.0,10,2012-10-08,Medium (3-10),Stratovolcanoes
-211071,Pantelleria,Rift zone / Continental crust (>25 km),Italy,36.77,12.02,2.0,9,1891-12-00,Medium (3-10),Shield
 263100,Papandayan,Subduction zone / Continental crust (>25 km),Indonesia,-7.32,107.73,2.0,4,2002-11-11,Medium (3-10),Stratovolcanoes
-355012,Parinacota,Subduction zone / Continental crust (>25 km),Chile-Bolivia,-18.166,-69.142,4.0,6,0290-00-00,Medium (3-10),Stratovolcanoes
 312030,Pavlof,Subduction zone / Continental crust (>25 km),United States,55.417,-161.894,2.0,47,2016-03-27,High (>10),Stratovolcanoes
 360120,Pelee,Subduction zone / Oceanic crust (< 15 km),France,14.809,-61.165,3.0,54,1929-09-16,High (>10),Stratovolcanoes
-263291,Penanggungan,Subduction zone / Continental crust (>25 km),Indonesia,-7.616,112.62,2.0,1,0200-00-00,Low (0-2),Stratovolcanoes
-390031,Penguin Island,Intraplate / Continental crust (>25 km),Antarctica,-62.1,-57.93,2.0,3,1905-00-00,Medium (3-10),Stratovolcanoes
 263040,Perbakti-Gagak,Subduction zone / Continental crust (>25 km),Indonesia,-6.75,106.7,1.0,7,1939-04-06,Medium (3-10),Stratovolcanoes
 261030,Peuet Sague,Subduction zone / Continental crust (>25 km),Indonesia,4.903,96.289,2.0,7,2000-12-25,Medium (3-10),Complex
 382020,Pico,Rift zone / Oceanic crust (< 15 km),Portugal,38.47,-28.4,0.0,4,1963-12-15,Medium (3-10),Stratovolcanoes
-382081,Picos Volcanic System,Rift zone / Oceanic crust (< 15 km),Portugal,37.78,-25.67,2.0,7,1652-10-19,Medium (3-10),Craters and Cones
 344080,"Pilas, Las",Subduction zone / Continental crust (>25 km),Nicaragua,12.495,-86.688,2.0,3,1954-10-29,Medium (3-10),Complex
 341001,Pinacate,Subduction zone / Continental crust (>25 km),Mexico,31.772,-113.498,2.0,2,1934-12-31,Low (0-2),Craters and Cones
 273083,Pinatubo,Subduction zone / Continental crust (>25 km),Philippines,15.13,120.35,1.0,8,1993-02-16,Medium (3-10),Stratovolcanoes
 357040,Planchon-Peteroa,Subduction zone / Continental crust (>25 km),Chile,-35.223,-70.568,1.0,24,2018-11-07,High (>10),Stratovolcanoes
-360110,"Plat Pays, Morne",Subduction zone / Oceanic crust (< 15 km),Dominica,15.255,-61.341,2.0,4,1270-00-00,Medium (3-10),Stratovolcanoes
 345040,Poas,Subduction zone / Continental crust (>25 km),Costa Rica,10.2,-84.233,2.0,60,2019-02-07,High (>10),Stratovolcanoes
 341090,Popocatepetl,Subduction zone / Continental crust (>25 km),Mexico,19.023,-98.622,2.0,46,2005-01-09,High (>10),Stratovolcanoes
 390140,Protector Seamounts,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-55.912,-28.167,0.0,1,1962-03-05,Low (0-2),Others
 355107,Pular,Subduction zone / Continental crust (>25 km),Chile,-24.188,-68.054,1.0,1,1990-04-24,Low (0-2),Stratovolcanoes
-352011,Pululahua,Subduction zone / Continental crust (>25 km),Ecuador,0.038,-78.463,2.0,4,0290-00-00,Medium (3-10),Calderas
-357160,Puntiagudo-Cordon Cenizos,Subduction zone / Continental crust (>25 km),Chile,-40.969,-72.264,2.0,2,1930-00-00,Low (0-2),Stratovolcanoes
 351060,Purace,Subduction zone / Continental crust (>25 km),Colombia,2.32,-76.4,2.0,25,1977-03-19,High (>10),Stratovolcanoes
 357150,Puyehue-Cordon Caulle,Subduction zone / Continental crust (>25 km),Chile,-40.59,-72.117,5.0,26,2011-06-04,High (>10),Stratovolcanoes
-360140,Qualibou,Subduction zone / Oceanic crust (< 15 km),Saint Lucia,13.83,-61.05,1.0,1,1766-00-00,Low (0-2),Calderas
 357121,Quetrupillan,Subduction zone / Continental crust (>25 km),Chile,-39.496,-71.722,2.0,5,1872-06-06,Medium (3-10),Stratovolcanoes
-360020,"Quill, The",Subduction zone / Oceanic crust (< 15 km),Netherlands,17.478,-62.96,2.0,3,0250-00-00,Medium (3-10),Stratovolcanoes
 252140,Rabaul,Subduction zone / Continental crust (>25 km),Papua New Guinea,-4.271,152.203,3.0,19,2014-07-07,High (>10),Others
-231070,"Rahat, Harrat",Intraplate / Continental crust (>25 km),Saudi Arabia,23.08,39.78,2.0,3,1292-00-00,Medium (3-10),Volcanic Fields
 321030,Rainier,Subduction zone / Continental crust (>25 km),United States,46.853,-121.76,1.0,28,1894-11-21,High (>10),Stratovolcanoes
 264071,Ranakah,Subduction zone / Continental crust (>25 km),Indonesia,-8.62,120.52,1.0,2,1991-03-16,Low (0-2),Lava Domes
 261251,Ranau,Subduction zone / Continental crust (>25 km),Indonesia,-4.871,103.925,2.0,2,1903-12-09,Low (0-2),Calderas
 242030,Raoul Island,Subduction zone / Oceanic crust (< 15 km),New Zealand,-29.27,-177.92,1.0,19,2006-03-17,High (>10),Stratovolcanoes
 290220,Rasshua,Subduction zone / Oceanic crust (< 15 km),Russia,47.77,153.02,1.0,2,1957-10-16,Low (0-2),Stratovolcanoes
 263340,Raung,Subduction zone / Continental crust (>25 km),Indonesia,-8.119,114.056,3.0,69,2015-02-01,High (>10),Stratovolcanoes
-290020,Raususan [Mendeleev],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,43.979,145.733,2.0,3,1900-00-00,Medium (3-10),Stratovolcanoes
-358063,Reclus,Subduction zone / Continental crust (>25 km),Chile,-50.964,-73.585,1.0,4,1908-00-00,Medium (3-10),Craters and Cones
-241060,Reporoa,Subduction zone / Continental crust (>25 km),New Zealand,-38.42,176.33,2.0,1,1180-00-00,Low (0-2),Calderas
 352010,Reventador,Subduction zone / Continental crust (>25 km),Ecuador,-0.077,-77.656,2.0,26,2008-07-27,High (>10),Stratovolcanoes
 371020,Reykjanes,Rift zone / Oceanic crust (< 15 km),Iceland,63.85,-22.566,0.0,22,1970-07-02,High (>10),Craters and Cones
 345020,Rincon de la Vieja,Subduction zone / Continental crust (>25 km),Costa Rica,10.83,-85.324,2.0,33,2020-01-31,High (>10),Complex
@@ -413,50 +271,35 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 241100,Ruapehu,Subduction zone / Continental crust (>25 km),New Zealand,-39.28,175.57,1.0,66,2007-09-25,High (>10),Stratovolcanoes
 351020,"Ruiz, Nevado del",Subduction zone / Continental crust (>25 km),Colombia,4.892,-75.324,2.0,27,2019-07-23,High (>10),Stratovolcanoes
 241130,Rumble III,Subduction zone / Oceanic crust (< 15 km),New Zealand,-35.745,178.478,0.0,6,2008-07-02,Medium (3-10),Others
-222166,Rungwe,Rift zone / Continental crust (>25 km),Tanzania,-9.135,33.668,2.0,3,1250-00-00,Medium (3-10),Stratovolcanoes
-360010,Saba,Subduction zone / Oceanic crust (< 15 km),Netherlands,17.63,-63.23,2.0,1,1640-00-00,Low (0-2),Stratovolcanoes
 354006,Sabancaya,Subduction zone / Continental crust (>25 km),Peru,-15.787,-71.857,3.0,14,2016-11-06,High (>10),Stratovolcanoes
 263050,Salak,Subduction zone / Continental crust (>25 km),Indonesia,-6.72,106.73,2.0,6,1938-01-31,Medium (3-10),Stratovolcanoes
-323200,Salton Buttes,Rift zone / Continental crust (>25 km),United States,33.197,-115.616,2.0,3,0210-00-00,Medium (3-10),Lava Domes
 344020,San Cristobal,Subduction zone / Continental crust (>25 km),Nicaragua,12.702,-87.004,2.0,35,2019-03-04,High (>10),Stratovolcanoes
-329020,San Francisco Volcanic Field,Rift zone / Continental crust (>25 km),United States,35.347,-111.678,4.0,1,1075-00-00,Low (0-2),Craters and Cones
 357020,San Jose,Subduction zone / Continental crust (>25 km),Chile-Argentina,-33.789,-69.895,2.0,9,1960-07-02,Medium (3-10),Stratovolcanoes
 341110,San Martin,Subduction zone / Continental crust (>25 km),Mexico,18.57,-95.2,2.0,16,1932-12-31,High (>10),Shield
-273060,San Pablo Volcanic Field,Subduction zone / Continental crust (>25 km),Philippines,14.12,121.3,2.0,1,1350-00-00,Low (0-2),Stratovolcanoes
 355070,San Pedro-San Pablo,Subduction zone / Continental crust (>25 km),Chile,-21.888,-68.391,2.0,10,1960-12-02,Medium (3-10),Stratovolcanoes
 343050,San Salvador,Subduction zone / Continental crust (>25 km),El Salvador,13.734,-89.294,3.0,7,1917-06-07,Medium (3-10),Stratovolcanoes
-283002,Sanbesan,Subduction zone / Continental crust (>25 km),Japan,35.141,132.622,2.0,3,0650-00-00,Medium (3-10),Stratovolcanoes
 352090,Sangay,Subduction zone / Continental crust (>25 km),Ecuador,-2.005,-78.341,2.0,11,2019-03-26,High (>10),Stratovolcanoes
 264050,Sangeang Api,Subduction zone / Continental crust (>25 km),Indonesia,-8.2,119.07,2.0,21,2017-07-15,High (>10),Complex
 343020,Santa Ana,Subduction zone / Continental crust (>25 km),El Salvador,13.853,-89.63,3.0,19,2005-06-16,High (>10),Stratovolcanoes
 342030,Santa Maria,Subduction zone / Continental crust (>25 km),Guatemala,14.757,-91.552,3.0,3,1922-06-22,Medium (3-10),Stratovolcanoes
-353090,Santiago,Rift zone / Oceanic crust (< 15 km),Ecuador,-0.22,-90.77,0.0,3,1904-00-00,Medium (3-10),Shield
 212040,Santorini,Subduction zone / Continental crust (>25 km),Greece,36.404,25.396,2.0,13,1950-01-10,High (>10),Shield
 290240,Sarychev Peak,Subduction zone / Intermediate crust (15-25 km),Russia,48.092,153.2,2.0,21,2019-05-16,High (>10),Stratovolcanoes
 290080,Sashiusudake [Baransky],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,45.1,148.019,1.0,3,1951-07-15,Medium (3-10),Stratovolcanoes
 390090,Saunders,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-57.8,-26.483,1.0,9,2014-11-12,Medium (3-10),Stratovolcanoes
 244040,Savai'i,Subduction zone / Oceanic crust (< 15 km),Samoa,-13.612,-172.525,2.0,12,1905-08-04,High (>10),Shield
-255070,Savo,Subduction zone / Crustal thickness unknown,Solomon Islands,-9.13,159.82,2.0,4,1865-00-00,Medium (3-10),Stratovolcanoes
-231160,"Sawad, Harra Es-",Intraplate / Continental crust (>25 km),Yemen,13.58,46.12,3.0,1,1253-00-00,Low (0-2),Volcanic Fields
 390050,Seal Nunataks Group,Intraplate / Continental crust (>25 km),Antarctica,-65.03,-60.05,2.0,2,1980-06-15,Low (0-2),Craters and Cones
 311180,Seguam,Subduction zone / Intermediate crust (15-25 km),United States,52.315,-172.51,2.0,13,1993-05-28,High (>10),Stratovolcanoes
 263300,Semeru,Subduction zone / Continental crust (>25 km),Indonesia,-8.108,112.922,3.0,65,2014-04-01,High (>10),Stratovolcanoes
 311060,Semisopochnoi,Subduction zone / Intermediate crust (15-25 km),United States,51.93,179.58,2.0,9,2019-12-07,Medium (3-10),Stratovolcanoes
 265070,Serua,Subduction zone / Oceanic crust (< 15 km),Indonesia,-6.312,130.017,2.0,12,1921-09-18,High (>10),Stratovolcanoes
-382080,Sete Cidades,Rift zone / Oceanic crust (< 15 km),Portugal,37.87,-25.78,0.0,16,1880-00-00,High (>10),Stratovolcanoes
 261020,Seulawah Agam,Subduction zone / Continental crust (>25 km),Indonesia,5.448,95.658,2.0,2,1839-01-12,Low (0-2),Stratovolcanoes
-323010,Shasta,Subduction zone / Continental crust (>25 km),United States,41.409,-122.193,2.0,23,1786-00-00,High (>10),Stratovolcanoes
 300270,Sheveluch,Subduction zone / Continental crust (>25 km),Russia,56.653,161.36,4.0,105,1999-08-15,High (>10),Stratovolcanoes
 285040,Shikotsu,Subduction zone / Continental crust (>25 km),Japan,42.688,141.38,1.0,43,1981-02-27,High (>10),Calderas
-285090,Shiretoko-Iozan,Subduction zone / Continental crust (>25 km),Japan,44.133,145.161,1.0,7,1935-12-00,Medium (3-10),Stratovolcanoes
 311360,Shishaldin,Subduction zone / Continental crust (>25 km),United States,54.756,-163.97,2.0,50,2019-07-23,High (>10),Stratovolcanoes
-255050,Simbo,Subduction zone / Crustal thickness unknown,Solomon Islands,-8.292,156.52,2.0,1,1910-00-00,Low (0-2),Stratovolcanoes
 261080,Sinabung,Subduction zone / Continental crust (>25 km),Indonesia,3.17,98.392,2.0,5,2019-02-06,Medium (3-10),Stratovolcanoes
-261070,Singkut,Subduction zone / Continental crust (>25 km),Indonesia,3.248,98.501,2.0,1,1881-00-00,Low (0-2),Calderas
 264270,Sirung,Subduction zone / Crustal thickness unknown,Indonesia,-8.508,124.13,1.0,13,2015-07-07,High (>10),Complex
 263180,Slamet,Subduction zone / Continental crust (>25 km),Indonesia,-7.242,109.208,2.0,46,2014-03-08,High (>10),Stratovolcanoes
 341021,Socorro,Rift zone / Oceanic crust (< 15 km),Mexico,18.78,-110.95,0.0,6,1993-01-29,Medium (3-10),Shield
-357111,Sollipulli,Subduction zone / Continental crust (>25 km),Chile,-38.97,-71.52,2.0,2,1240-00-00,Low (0-2),Calderas
 266030,Soputan,Subduction zone / Continental crust (>25 km),Indonesia,1.112,124.737,2.0,41,2020-03-23,High (>10),Stratovolcanoes
 261120,Sorikmarapi,Subduction zone / Continental crust (>25 km),Indonesia,0.686,99.539,2.0,10,1996-05-05,Medium (3-10),Stratovolcanoes
 360060,Soufriere Guadeloupe,Subduction zone / Oceanic crust (< 15 km),France,16.044,-61.664,2.0,22,1976-07-08,High (>10),Stratovolcanoes
@@ -466,12 +309,8 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 313040,Spurr,Subduction zone / Continental crust (>25 km),United States,61.299,-152.251,4.0,8,1992-06-27,Medium (3-10),Stratovolcanoes
 250010,St. Andrew Strait,Subduction zone / Oceanic crust (< 15 km),Papua New Guinea,-2.38,147.35,2.0,4,1953-06-27,Medium (3-10),Complex
 321050,St. Helens,Subduction zone / Continental crust (>25 km),United States,46.2,-122.18,2.0,44,2004-10-01,High (>10),Stratovolcanoes
-314010,St. Paul Island,Intraplate / Continental crust (>25 km),United States,57.18,-170.3,2.0,2,1943-00-00,Low (0-2),Shield
 211040,Stromboli,Subduction zone / Continental crust (>25 km),Italy,38.789,15.213,2.0,22,1934-02-02,High (>10),Stratovolcanoes
-342160,Suchitan,Subduction zone / Continental crust (>25 km),Guatemala,14.4,-89.78,2.0,1,1469-00-00,Low (0-2),Stratovolcanoes
-352040,Sumaco,Subduction zone / Continental crust (>25 km),Ecuador,-0.538,-77.626,2.0,3,1933-02-00,Medium (3-10),Stratovolcanoes
 261180,Sumbing,Subduction zone / Continental crust (>25 km),Indonesia,-2.414,101.728,2.0,2,1921-05-23,Low (0-2),Stratovolcanoes
-263220,Sumbing,Subduction zone / Continental crust (>25 km),Indonesia,-7.384,110.07,1.0,1,1730-00-00,Low (0-2),Stratovolcanoes
 284080,Sumisujima,Subduction zone / Oceanic crust (< 15 km),Japan,31.44,140.051,0.0,24,2005-03-08,High (>10),Others
 263210,Sundoro,Subduction zone / Continental crust (>25 km),Indonesia,-7.3,109.992,2.0,11,1971-10-29,High (>10),Stratovolcanoes
 257010,Suretamatai,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-13.8,167.47,2.0,4,1965-08-09,Medium (3-10),Complex
@@ -481,80 +320,44 @@ volcano_number,volcano_name,tectonic_settings,country,latitude,longitude,vei,eru
 355010,Tacora,Subduction zone / Continental crust (>25 km),Chile-Peru,-17.72,-69.77,2.0,2,1937-08-05,Low (0-2),Stratovolcanoes
 243120,Tafu-Maka,Rift zone / Oceanic crust (< 15 km),Tonga,-15.37,-174.23,0.0,1,2008-11-16,Low (0-2),Others
 221010,"Tair, Jebel at",Rift zone / Oceanic crust (< 15 km),Yemen,15.55,41.83,3.0,5,2007-09-30,Medium (3-10),Stratovolcanoes
-285060,Taisetsuzan,Subduction zone / Continental crust (>25 km),Japan,43.664,142.854,2.0,5,1739-00-00,Medium (3-10),Stratovolcanoes
 261130,Talakmau,Subduction zone / Continental crust (>25 km),Indonesia,0.079,99.98,1.0,1,1937-09-08,Low (0-2),Complex
 261160,Talang,Subduction zone / Continental crust (>25 km),Indonesia,-0.979,100.681,2.0,15,2007-11-27,High (>10),Stratovolcanoes
 264040,Tambora,Subduction zone / Continental crust (>25 km),Indonesia,-8.25,118.0,0.0,7,1967-07-02,Medium (3-10),Stratovolcanoes
-311080,Tanaga,Subduction zone / Intermediate crust (15-25 km),United States,51.885,-178.146,0.0,8,1914-00-00,Medium (3-10),Stratovolcanoes
-261150,Tandikat-Singgalang,Subduction zone / Continental crust (>25 km),Indonesia,-0.39,100.331,1.0,4,1924-04-00,Medium (3-10),Stratovolcanoes
-266130,Tangkoko-Duasudara,Subduction zone / Continental crust (>25 km),Indonesia,1.518,125.185,1.0,7,1880-00-00,Medium (3-10),Stratovolcanoes
 263090,Tangkuban Parahu,Subduction zone / Continental crust (>25 km),Indonesia,-6.77,107.6,2.0,22,2019-07-26,High (>10),Stratovolcanoes
 290310,Tao-Rusyr Caldera,Subduction zone / Intermediate crust (15-25 km),Russia,49.35,154.7,3.0,2,1952-11-12,Low (0-2),Stratovolcanoes
-241030,Taranaki,Subduction zone / Continental crust (>25 km),New Zealand,-39.3,174.07,2.0,43,1854-00-00,High (>10),Stratovolcanoes
-281032,Tatun Volcanic Group,Subduction zone / Continental crust (>25 km),Taiwan,25.178,121.553,0.0,2,0648-00-00,Low (0-2),Lava Domes
-241070,Taupo,Subduction zone / Continental crust (>25 km),New Zealand,-38.82,176.0,0.0,25,0260-00-00,High (>10),Calderas
-245010,Taveuni,Subduction zone / Crustal thickness unknown,Fiji,-16.82,-179.97,0.0,34,1550-00-00,High (>10),Shield
 343080,Tecapa,Subduction zone / Continental crust (>25 km),El Salvador,13.494,-88.502,2.0,1,1878-10-02,Low (0-2),Stratovolcanoes
 344040,Telica,Subduction zone / Continental crust (>25 km),Nicaragua,12.606,-86.84,1.0,50,2018-06-21,High (>10),Stratovolcanoes
-261050,"Telong, Bur ni",Subduction zone / Continental crust (>25 km),Indonesia,4.769,96.821,2.0,6,1937-00-00,Medium (3-10),Stratovolcanoes
-213030,Tenduruk Dagi,Intraplate / Continental crust (>25 km),Turkey,39.356,43.874,2.0,2,1855-00-00,Low (0-2),Shield
 383030,Tenerife,Intraplate / Oceanic crust (< 15 km),Spain,28.271,-16.641,2.0,46,1909-11-18,High (>10),Stratovolcanoes
-275110,Tengchong,Intraplate / Continental crust (>25 km),China,25.23,98.5,2.0,2,1609-00-00,Low (0-2),Craters and Cones
 263310,Tengger Caldera,Subduction zone / Continental crust (>25 km),Indonesia,-7.942,112.95,2.0,69,2019-02-18,High (>10),Stratovolcanoes
 382050,Terceira,Rift zone / Oceanic crust (< 15 km),Portugal,38.73,-27.32,0.0,15,1998-11-25,High (>10),Stratovolcanoes
-322070,Three Sisters,Subduction zone / Continental crust (>25 km),United States,44.133,-121.767,2.0,7,1853-07-00,Medium (3-10),Complex
 256010,Tinakula,Subduction zone / Crustal thickness unknown,Solomon Islands,-10.386,165.804,2.0,27,2018-12-08,High (>10),Stratovolcanoes
 357030,Tinguiririca,Subduction zone / Continental crust (>25 km),Chile,-34.814,-70.352,2.0,2,1994-01-15,Low (0-2),Stratovolcanoes
-373100,Tjornes Fracture Zone,Rift zone / Oceanic crust (< 15 km),Iceland,66.309,-17.118,2.0,1,1867-12-00,Low (0-2),Others
 243060,Tofua,Subduction zone / Oceanic crust (< 15 km),Tonga,-19.75,-175.07,1.0,11,2004-03-19,High (>10),Calderas
 285050,Tokachidake,Subduction zone / Continental crust (>25 km),Japan,43.418,142.686,1.0,28,2004-02-25,High (>10),Stratovolcanoes
 300240,Tolbachik,Subduction zone / Continental crust (>25 km),Russia,55.832,160.326,4.0,60,2012-11-27,High (>10),Shield
-351030,"Tolima, Nevado del",Subduction zone / Continental crust (>25 km),Colombia,4.658,-75.33,2.0,12,1943-03-00,High (>10),Stratovolcanoes
-290010,Tomariyama [Golovnin],Subduction zone / Intermediate crust (15-25 km),Japan - administered by Russia,43.844,145.504,1.0,3,1848-00-00,Medium (3-10),Calderas
 241080,Tongariro,Subduction zone / Continental crust (>25 km),New Zealand,-39.157,175.632,2.0,79,2012-11-21,High (>10),Stratovolcanoes
-372050,Torfajokull,Rift zone / Oceanic crust (< 15 km),Iceland,63.892,-19.122,2.0,10,1477-03-00,Medium (3-10),Stratovolcanoes
-283271,Towada,Subduction zone / Continental crust (>25 km),Japan,40.51,140.88,5.0,8,0915-08-17,Medium (3-10),Calderas
 285030,Toya,Subduction zone / Continental crust (>25 km),Japan,42.544,140.839,2.0,14,2000-03-31,High (>10),Stratovolcanoes
 257090,Traitor's Head,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-18.754,169.238,2.0,2,1959-07-02,Low (0-2),Stratovolcanoes
 312160,Trident,Subduction zone / Continental crust (>25 km),United States,58.236,-155.1,3.0,15,1974-07-15,High (>10),Stratovolcanoes
 386010,Tristan da Cunha,Rift zone / Oceanic crust (< 15 km),United Kingdom,-37.092,-12.28,2.0,2,1961-10-10,Low (0-2),Shield
-360100,"Trois Pitons, Morne",Subduction zone / Oceanic crust (< 15 km),Dominica,15.37,-61.33,2.0,2,0920-00-00,Low (0-2),Complex
-357072,Tromen,Subduction zone / Continental crust (>25 km),Argentina,-37.144,-70.033,2.0,2,1822-00-00,Low (0-2),Stratovolcanoes
-221250,Tullu Moje,Rift zone / Continental crust (>25 km),Ethiopia,8.159,39.137,2.0,2,1900-00-00,Low (0-2),Craters and Cones
 357010,Tupungatito,Subduction zone / Continental crust (>25 km),Chile-Argentina,-33.425,-69.797,2.0,20,1987-11-28,High (>10),Stratovolcanoes
 345070,Turrialba,Subduction zone / Continental crust (>25 km),Costa Rica,10.025,-83.767,2.0,21,2015-03-08,High (>10),Stratovolcanoes
-244020,Tutuila,Subduction zone / Oceanic crust (< 15 km),United States,-14.295,-170.7,3.0,1,0440-00-00,Low (0-2),Craters and Cones
-354040,Tutupaca,Subduction zone / Continental crust (>25 km),Peru,-17.026,-70.372,2.0,5,1902-06-00,Medium (3-10),Stratovolcanoes
-312130,Ugashik-Peulik,Subduction zone / Continental crust (>25 km),United States,57.751,-156.368,2.0,5,1852-00-00,Medium (3-10),Stratovolcanoes
-329010,Uinkaret Field,Rift zone / Continental crust (>25 km),United States,36.38,-113.13,1.0,1,1100-00-00,Low (0-2),Volcanic Fields
 312131,Ukinrek Maars,Subduction zone / Continental crust (>25 km),United States,57.832,-156.51,3.0,2,1977-03-30,Low (0-2),Others
 282100,Unzendake,Subduction zone / Continental crust (>25 km),Japan,32.761,130.299,2.0,15,1996-02-10,High (>10),Complex
-300261,Ushkovsky,Subduction zone / Continental crust (>25 km),Russia,56.113,160.509,2.0,3,1890-04-00,Medium (3-10),Complex
-231020,"Uwayrid, Harrat",Intraplate / Continental crust (>25 km),Saudi Arabia,27.08,37.25,2.0,1,0640-00-00,Low (0-2),Volcanic Fields
-300170,Uzon,Subduction zone / Continental crust (>25 km),Russia,54.5,159.97,2.0,4,0200-00-00,Medium (3-10),Calderas
 244000,Vailulu'u,Subduction zone / Oceanic crust (< 15 km),United States,-14.215,-169.058,0.0,3,2003-04-16,Medium (3-10),Others
-214080,Vaiyots-Sar,Intraplate / Continental crust (>25 km),Armenia,39.797,45.497,2.0,2,0753-00-00,Low (0-2),Craters and Cones
 372010,Vestmannaeyjar,Rift zone / Oceanic crust (< 15 km),Iceland,63.416,-20.266,3.0,10,1973-01-23,Medium (3-10),Others
 211020,Vesuvius,Subduction zone / Continental crust (>25 km),Italy,40.821,14.426,3.0,61,1913-07-05,High (>10),Stratovolcanoes
-253030,Victory,Subduction zone / Continental crust (>25 km),Papua New Guinea,-9.2,149.07,2.0,2,1890-00-00,Low (0-2),Stratovolcanoes
 357120,Villarrica,Subduction zone / Continental crust (>25 km),Chile,-39.42,-71.93,1.0,164,2014-12-02,High (>10),Stratovolcanoes
 223050,Visoke,Rift zone / Continental crust (>25 km),DR Congo-Rwanda,-1.458,29.485,1.0,2,1957-08-01,Low (0-2),Stratovolcanoes
 211050,Vulcano,Subduction zone / Continental crust (>25 km),Italy,38.404,14.962,2.0,46,1968-07-11,High (>10),Stratovolcanoes
 360101,"Watt, Morne",Subduction zone / Oceanic crust (< 15 km),Dominica,15.307,-61.305,1.0,5,1997-07-15,Medium (3-10),Stratovolcanoes
-320150,Wells Gray-Clearwater,Intraplate / Continental crust (>25 km),Canada,52.33,-120.57,2.0,2,1550-00-00,Low (0-2),Craters and Cones
 243130,West Mata,Subduction zone / Oceanic crust (< 15 km),Tonga,-15.1,-173.75,0.0,1,2008-11-16,Low (0-2),Others
 311340,Westdahl,Subduction zone / Continental crust (>25 km),United States,54.516,-164.65,3.0,8,1991-11-29,Medium (3-10),Stratovolcanoes
 241040,Whakaari/White Island,Subduction zone / Continental crust (>25 km),New Zealand,-37.52,177.18,2.0,42,2019-12-09,High (>10),Stratovolcanoes
-263270,Wilis,Subduction zone / Continental crust (>25 km),Indonesia,-7.808,111.758,2.0,1,1641-00-00,Low (0-2),Stratovolcanoes
 252080,Witori,Subduction zone / Continental crust (>25 km),Papua New Guinea,-5.576,150.516,2.0,21,2012-05-03,High (>10),Calderas
 315020,Wrangell,Intraplate / Continental crust (>25 km),United States,62.006,-144.017,1.0,14,2002-08-01,High (>10),Shield
-305030,Wudalianchi,Intraplate / Continental crust (>25 km),China,48.72,126.12,2.0,2,1776-00-00,Low (0-2),Volcanic Fields
 283070,Yakedake,Subduction zone / Continental crust (>25 km),Japan,36.227,137.587,1.0,38,1995-02-11,High (>10),Stratovolcanoes
-231080,"Yar, Jabal",Intraplate / Continental crust (>25 km),Saudi Arabia,17.05,42.83,2.0,1,1810-00-00,Low (0-2),Volcanic Fields
 257100,Yasur,Subduction zone / Intermediate crust (15-25 km),Vanuatu,-19.532,169.447,3.0,4,1774-07-02,Medium (3-10),Stratovolcanoes
-282021,Yokoate-jima,Subduction zone / Oceanic crust (< 15 km),Japan,28.797,128.997,2.0,1,1835-00-00,Low (0-2),Stratovolcanoes
-283031,Yokodake,Subduction zone / Continental crust (>25 km),Japan,36.087,138.32,2.0,2,1200-00-00,Low (0-2),Stratovolcanoes
-282130,Yufu-Tsurumi,Subduction zone / Continental crust (>25 km),Japan,33.282,131.39,3.0,3,0867-03-04,Medium (3-10),Lava Domes
 311210,Yunaska,Subduction zone / Intermediate crust (15-25 km),United States,52.643,-170.629,3.0,6,1937-11-03,Medium (3-10),Shield
 283190,Zaozan [Zaosan],Subduction zone / Continental crust (>25 km),Japan,38.144,140.44,1.0,52,1940-05-18,High (>10),Complex
 390130,Zavodovski,Subduction zone / Oceanic crust (< 15 km),United Kingdom,-56.3,-27.57,1.0,5,2016-03-30,Medium (3-10),Stratovolcanoes
