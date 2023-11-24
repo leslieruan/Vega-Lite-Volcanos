@@ -149,7 +149,7 @@
                         "type": "quantitative",
                         "scale": {
                             "type": "piecewise",
-                            "domain": [1600, 1900, 2020],
+                            "domain": [1700, 1900, 2020],
                             "range": [0, 100, 400]
                           }
                       },
@@ -220,7 +220,7 @@
                         "type": "quantitative",
                         "scale": {
                             "type": "piecewise",
-                            "domain": [1600, 1900, 2020],
+                            "domain": [1700, 1900, 2020],
                             "range": [0, 100, 40]
                           }
 
