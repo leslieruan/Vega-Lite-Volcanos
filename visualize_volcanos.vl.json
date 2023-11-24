@@ -352,7 +352,7 @@
             ]
             },
             {
-                "width": 196,
+                "width": 198,
                 "height": 250,
                 "mark": {"type": "bar", "size": 18},
                 "encoding": {
