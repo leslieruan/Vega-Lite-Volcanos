@@ -223,7 +223,9 @@
                     "transform": [
                       {"filter": {"param": "legend_click"}},
                       {"filter": {"param": "histogram_brush"}},
-                      {"filter": {"param": "bar_chart_click"}}                   
+                      {"filter": {"param": "bar_chart_click"}},
+                      {"filter": {"param": "scatter_plot_brush"}}
+                    
                     ]                   
                   },
                   {
@@ -238,7 +240,8 @@
                       },
                       {"filter": {"param": "legend_click"}},
                       {"filter": {"param": "histogram_brush"}},
-                      {"filter": {"param": "bar_chart_click"}}
+                      {"filter": {"param": "bar_chart_click"}},
+                      {"filter": {"param": "scatter_plot_brush"}}
                     ],
                     "mark": "point",
                     "encoding": {
