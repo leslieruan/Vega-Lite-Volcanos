@@ -51,7 +51,7 @@
                         "field": "eruption_frequency",
                         "title": "Eruptio Frequency",
                         "type": "nominal",
-                        "scale": {"range": [ "#D81B60", "#004D40","#FFC107"]}
+                        "scale": {"range": [ "#D81B60","#FFC107" ,"#004D40"]}
                         },
                         "opacity": {
                             "condition": {"param": "legend_click", "value": 0.7},
