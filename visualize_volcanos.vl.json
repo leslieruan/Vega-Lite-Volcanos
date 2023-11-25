@@ -51,7 +51,7 @@
                         "field": "eruption_frequency",
                         "title": "Eruptio Frequency",
                         "type": "nominal",
-                        "scale": {"range": [ "#ef233c", "#7cb518","#ffd60a"]}
+                        "scale": {"range": [ "#D81B60", "#004D40","#FFC107"]}
                         },
                         "opacity": {
                             "condition": {"param": "legend_click", "value": 0.7},
@@ -241,7 +241,7 @@
                       {"filter": {"param": "legend_click"}},
                       {"filter": {"param": "histogram_brush"}},
                       {"filter": {"param": "bar_chart_click"}},
-                      {"filter": {"param": "scatter_plot_brush"}}
+                       {"filter": {"param": "scatter_plot_brush"}}
                     ],
                     "mark": "point",
                     "encoding": {
@@ -272,7 +272,7 @@
                     "mark": {
                       "type": "line", 
                       "interpolate": {"expr": "interpolate"},
-                      "color": "#1982c4"
+                      "color": "#1E88E5"
                     },
                     "transform": [
                       {
